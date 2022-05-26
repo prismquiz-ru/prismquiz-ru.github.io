@@ -49,4 +49,4 @@ whistle	legal		proced/lao	decn	hum	prot
 police	legal		proced	decn	lao	hum	prot								
 survey	legal		proced	decn	prot	hum	lao								
 guns	legal		proced	lao	decn/hum	hum*	prot								
-deathpenalty	legal	1	proced	decn	lao/prot	hum	prot*	lao
+deathpenalty	legal	1	proced	decn	lao/prot	hum	prot*	lao							
