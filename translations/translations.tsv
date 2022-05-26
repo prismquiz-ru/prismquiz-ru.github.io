@@ -1,0 +1,121 @@
+key	nonce	en
+gov		Government
+econ		Economy
+soct		Society
+rel		Religion
+for		Foreign Policy
+legal		Security
+o		I completely disagree with every part of all of these philosophies
+a		I do not care about this issue
+prev		Previous
+praysch		Prayer in School
+nota		Other
+idc		Apathy
+cent		Radical Centrism
+com		Communism
+soc		Socialism
+socdem		Social Democracy
+clas		Classical Liberalism
+ordo		Ordoliberalism
+cap		Laissez-Faire
+opt		Mixed Markets
+marksoc		Market Socialism
+trad		Traditionalism
+free		Freedom
+prog		Progressivism
+just		Societal Justice
+perf		Perfectionism
+sec		Secular
+athe		Atheist
+athe*		Anti-Theist
+theo		Theocratic
+hybr		Hybrid
+dir		Direct Democracy
+dir*		E-Democracy
+rep		Unitary Democracy
+repub		Federal Republic
+repub*		Confederationism
+auth		Authoritarianism
+auth*		Monarchism
+techno		Technocracy
+anar		Anarchism
+plut		Plutarchy
+strato		Stratocracy
+rep*		Federal Democracy
+asim		Assimilationist
+glob		Internationalist
+glob*		Globalist
+pop		National Populist
+sov		Sovereigntist
+iso		Isolationist
+nat		Nationalist
+nat*		Imperialist
+open		Open Borders
+open*		Minimalist
+proced		Procedural
+decn		Decentralized
+lao		Law and Order
+hum		Humanist
+hum*		Reformist
+prot		State Security
+prot*		Total Security
+quizname		Prism Political Quiz
+nota	desc	If you're getting other, you believe in something that disagrees with basic assumptions that this quiz makes to simplify questions for the vast majority of people. You may need more specialized tests to capture your beliefs, though you likely already have a specific label for yourself.
+idc	desc	Apathy refers to the lack of interest in a particular issue. It might not affect you, or you might just not believe any option is better than the others or that there isn't any realistic hope of achieving change in an issue. Some apathetic people just might care about a handful of other issues more and be apathetic about other issues
+soc	desc	This quiz uses Socialism to refer to the belief that the state should control the economy in many industries. They believe private industry should be banned or limited to industries that are harder to put a direct value on. They believe that workers should receive the value of their labor with minimal amounts given to management.
+socdem	desc	Those who believe in Social Democracy according to this test believe that the government should take a heavy hand in the market. While they believe in Capitalism, they also believe it is the duty of the government to ensure that the results of capitalism are fair and do not hurt the poor.
+cent	desc	This quiz uses radical centrism to indicate that there was no strong preference between ideologies. It is radical centrism rather than centrism because it combines elements of multiple extremely different  ideologies. This may mean you have an ideology that is not captured by this quiz or that you are just picking random answers
+clas	desc	Those who according to this quiz believe in Classical Liberalism tend to believe that the government should largely stay out of the economy except in extreme cases of exploitation and when companies fail to deliver what they advertised to the consumer.
+ordo	desc	This quiz refers to Ordoliberalism as the belief that the government must regulate companies to ensure capitalism works as best as it possibly can, by ensuring small businesses can compete with big businesses. They believe firmly in capitalism, but that government must ensure competition in most cases.
+com	desc	This quiz uses Communism to refer to the nation providing for its citizens in accordance to their needs based on what others can produce without any sort of currency system or payment. They usually do not believe in a national government managing the economy, but local communes that ensure needs are met
+cap	desc	This quiz uses Laissez-Faire to refer to the complete lack of interference by the state (if one even exists) in the markets, relying soley on market principles to regulate markets through consumer choices rather than mandates. They believe that without regulation, the markets will be open to everyone and thus find fair prices.
+opt	desc	People who believe in Mixed Markets according to this test, believe that the government should compete with markets. They believe that the government should provide a baseline for services at an affordable price but allow the private market to compete on prices or quality to give citizens the best of both.
+marksoc	desc	This quiz uses the term Market Socialism to refer to using markets in government-owned businesses. Specifically, they usually believe anyone should be able to start a government-owned businesses to allow choices for consumers while still guaranteeing workers the value of their labor
+trad	desc	Traditionalism is used by this quiz to refer to following morals that are proud of traditional values such as religion, patriotism, and humanity. Traditionalists also tend to believe in placing limits on technology which could violate their beliefs and values
+free	desc	This quiz uses Freedom to mean the belief in the right of the individual to do what they want without regulation or censorship by the state. This especially refers to the ability to have control of the individual's body and mind, as well as the freedom to use advances in technology to their full extent on an individual level.
+prog	desc	For the purposes of this quiz, Progressivism means the acceptance of the progression of technology and society and the belief that we as a society are able to decide what is right and wrong on a case-by-case basis, rather than dealing with absolute terms, as technological issues are inherently complex.
+just	desc	According to this quiz, those who believe in Societal Justice believe that policies and technological advances must be  carefully designed to apply evenly and not have an unfair effect on vulnerable communities such as the poor or minorities.
+perf	desc	Perfectionism refers to the willingness to use any technology available to further the interests of the state. The needs of the state overrules the the desires of the people, and with enough mental manipulation, the people desire to do what the state needs. Technology can be used to eliminate waste and perfect humanity.
+sec	desc	This uses secularism to refer to the complete separation of church and state but a complete lack of interference with private religion. This includes allowing private religious schools to teach religious beliefs but keeping religion out of public schools. Additionally, they believe the state should not favor any one religion
+athe	desc	This quiz defines state atheists to believe that the government should be irreligious. They may believe that members of government and the general population can be religious, but they should not influence policy based on their religion. They believe students should only be taught science as facts, not religion.
+theo	desc	A Theocrat, according to this quiz, believes that the government should promote religion in the nation. They believe religion is important to the people and that the government should not hold back from teaching it and including it on national property
+hybr	desc	This quiz calls a Hybridist someone who believes that the state and church can coexist, and that while the state should not favor a religion, it should also not favor atheism. Hybridists advocate for a balance of religion in schools and government as long as it does not favor one in particular or force a religion upon anyone.
+dir	desc	This quiz uses Direct Democracy to refer to the belief that people should regularly vote on issues through national referendums. They believe that the people should have a right to govern themselves and have a direct say on the policies that govern them. They are likely to support citizen-initiated ballot measures to propose policy.
+dir*	desc	This quiz uses E-Democracy to represent the belief in using technology to allow democracy over the internet. This can include having frequent Electronic Direct Democracy referendums, as well as options where a person can delegate their direct vote to another to create a more representative form of E-Democracy.
+rep	desc	This quiz uses a unitary democracy to refer to people who believe that power should be left to the national government with little to no power given to the provinces on most issues. They usually believe in using party lists with proportional representation on a national level. They believe every vote should count an equal amount for seats.
+repub	desc	This quiz uses a Federal Republic to refer to the belief that power should tend to be left to the provinces on most issues. Supporters believe representatives should represent a specific district rather than the nation as a whole. They want legislative seat distribution that ensures less populous provinces still have an impact.
+repub*	desc	People who believe in Confederationism according to this quiz believe that the local government should be the primary unit of government, with a weak national government with very limited powers. They believe in the right for a province to secede and in many ways support the nation as an alliance of smaller local provinces.
+auth	desc	This quiz uses Authoritarianism to refer to the belief that the government should be ruled by a single dictator or similarly other similar ruler, passed through appointment. They usually believe that having a single leader serve for life will be able to use his experience to serve the nation’s interests.
+auth*	desc	This quiz uses Monarchism to refer to a system with a single hereditary ruler who ultimately holds the decision-making power for the nation. They usually believe that a single individual who can decide everything can serve the interests of the nation better than the conflicting voices of the masses would
+techno	desc	This quiz uses Technocracy to refer to a system where the government is run by experts. They believe power should be given through merit rather than popularity, and tend to support giving educated people more power in government, either through appointments of them, or giving them more weight in votes.
+anar	desc	This test uses Anarchists to refer to the belief that we would be better out without a government. Anarchists believe we should look after our own interests without government interference, and potentially disbanding the government. They believe that nobody should have power over another and emphasize individual liberty.
+plut	desc	This test uses Plutarchy to include a number of different government forms that are rule by the wealthy. This may include running the nation like a corporation or granting votes by wealth. They believe that the wealthy have the highest stake in the government and thus should have the biggest say in it.
+strato	desc	This quiz uses a Stratocracy to represent a number of government forms that involve rule by military. This could include a military dictatorship, or a democracy with limiting suffrage so only the military may vote, or that the military votes count more. They may also believe in mandatory national service.
+rep*	desc	Those who believe in Federal Democracy believe that power should be shared between both the national and local governments, with a balance of power. They usually believe that the national government should be proportional on a national scale rather than representatives chosen by districts.
+asim	desc	This quiz uses an Assimilationist to believe in someone who believes in immigration when the immigrants adapt to the nation's culture. They tend to support international deals that do not disrupt the nation's traditions, but will not support deals that could risk giving up the parts that traditionally make the nation what it is
+glob	desc	This quiz uses Internationalism to believe in the duty of a nation to serve the interests of all people in the world, not just the nation's own. They believe that the nation should take measures to improve global life through humanitarian actions abroad and that the nation should be welcoming of foreigners and assist them when needed
+glob*	desc	Globalism according to this quiz refers to the belief that we are one world, and that we should all care for each other. The ideal for a globalist is for all nations to unite diplomatically into a single world government that is able to take care of all people. Until that happens, they believe in welcoming immigrants and refugees.
+pop	desc	This quiz uses National Populism to refer to a person who believes in doing anything for the good of the nation's people. They will generally support international treaties when they can offer benefits to the nation's population and oppose treaties that can put them at risk or take their rights away.
+sov	desc	This quiz calls someone who believes that a nation must have the absolute right to control their own laws a Sovereigntist. These people believe that the nation must have a right to control its borders and laws, and will oppose deals and organizations that threaten to take some of that power away from the nation.
+iso	desc	This quiz uses isolationism to refer to the belief that the nation should remain focused internally and ignore the outside world. They usually believe in a complete ban on individuals entering the nation and will oppose any agreements with other nations
+nat	desc	a Nationalist in this quiz believes in putting the interests of the state first in foreign policy. They may support deals with other nations that can give the nation more power, and they usually only support immigration when the immigrants are filling a shortage or otherwise adding something to the nation.
+nat*	desc	An Imperialist, according to this quiz, believes that a nation must do everything in its power to improve itself. This includes militarily taking lands that it claims, and if it serves the interests of the nation, claiming more land that should belong to the nation.
+open	desc	People who believe in Open Borders according to this quiz usually believe that people should be able to enter and leave a nation freely. Those with high values may also believe in not having a military or any espionage services. They usually won't do much abroad and are hesitant to negotiate deals that can risk infringing on freedom.
+open*	desc	A Minimalist, according to this quiz, believes in not having a sufficiently central government to be able to truly conduct foreign policy. They usually believe strongly in open borders and allowing people to come and go freely through the nation, and generally oppose a national language or culture
+athe*	desc	An Anti-theist, according to this quiz believes that religion in the nation should be completely banned. They believe that religion should not have a place in the nation, and will enforce state atheism on all citizens of the nation through bans on all religious activities.
+praysch	0	Most schools should have daily prayer
+praysch	1	I support having a minute of silence in public schools, in which students may pray if they choose, but will not enforce it upon anyone
+praysch	2	Prayer does not need a dedicated time slot in schools. Students may pray on their own time if they wish
+praysch	3	Private religious schools may have prayers if they want, but any public schools that exist should not
+creationism		Creationism in School
+creationism	0	The universe was created by a higher power. We must teach this in our schools, and evolution should only be mentioned when demonstrating how it is wrong.
+creationism	1	The church does not belong in our public schools. Private schools may teach creationism if they wish, but public schools should only teach scientific theories such as evolution.
+creationism	2	Schools should be required to teach the evolution and evolution alone. That is science and facts, and pretending it is not does a disservice to our children
+creationism	3	The state must not take sides. Public schools should be required to teach both creationism and evolution, and students can decide for themselves what to believe.
+proced	desc	According to this quiz, someone who believes in Procedural security believes that people should follow the procedures and regulations that are set out. Those that are following the procedures, even when the procedures are wrong, should not be punished, and the procedures should be changed.
+decn	desc	Those who believe in Decentralized Security believe that the government should not be guaranteeing security, and instead believes that people should take their own security in their own hands. They usually believe strongly in guns and oppose prisons and police.
+lao	desc	People who believe in Law and Order believe that the best way to prevent crime is to impose strict penalties and risks to deter criminals. They usually believe in penalizing those who break the law to the full extent of the law and support punishment over rehabilitation
+hum	desc	A Humanist, according to this quiz, believes that most people are fundamentally good, and that people should be trusted until they have shown that they do not deserve that trust. They believe in rehabilitation and the right to bear arms as a default right. 
+hum*	desc	This quiz calls a Reformist someone who believes that the government must keep its people safe while respecting their privacy. Reformists believe that people should need training to operate a gun, but also support privacy rights and rehabilitation.
+prot	desc	A believer in State Security, according to this quiz, believes that privacy is unimportant in comparison to a guarantee of security and usually supports constant surveillance and removing any threat of uprising. They believe the population should follow the law through any means necessary.
+prot*	desc	A believer in Total Security, according to this quiz, believes that the state should suppress dissent. They believe the population should follow the law through any means necessary and that nobody should expect privacy so should follow the law.
