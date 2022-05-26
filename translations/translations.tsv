@@ -425,9 +425,9 @@ espionage	3	The most important espionage task is for our domestic agency to trac
 espionage	4	The most important task is for our foreign espionage agency to uncover atrocities around the world and expose them
 espionage	5	We should not even have a foreign espionage agency. Our domestic agency should focused on uncovering and tracking down criminals and people who entered the nation illegally
 espionage	6	We should not have any espionage agency
-A		Выберите вариант, к-рый лучше всего описывает ваше мнение
-BL		Нажмите на ?, если предпочтение незначительное
-BR		Нажмите на ✓, если это определенно ваше предпочтение
+A		Выберите вариант, который вам ближе всего
+BL		Нажмите ?, если предпочтение незначительное
+BR		Нажмите ✓, если это определенно ваше предпочтение
 all		Все
 home		Главная страница
 values		Возможные значения
