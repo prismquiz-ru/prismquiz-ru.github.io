@@ -20,7 +20,7 @@ foreignaid	for		nat/sov	glob	nat/asim	asim/pop/sov	iso	open*
 unres	for		iso/open	glob*	pop	glob	sov	nat	asim						
 espionage	for		nat	sov/asim	pop	sov	glob	iso	open						
 praysch	rel		theo	hybr	sec/athe										
-creationism	rel		theo	sec	athe	hybr									
+creationism	rel		theo	sec/athe	hybr										
 churchtax	rel		theo	athe/sec	hybr	athe*									
 memorial	rel		theo	athe	sec	hybr									hybr
 holidays	rel		theo	sec/athe	hybr										
