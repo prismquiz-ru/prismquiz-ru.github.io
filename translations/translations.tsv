@@ -106,11 +106,10 @@ athe*	desc	Согласно этому тесту, сторонники «Гос
 praysch	0	В большинстве школ должна быть ежедневная молитва.
 praysch	1	Я поддерживаю введение в государственных школах минуты молчания, во время которой ученики могут молиться по своему выбору, но не буду никому навязывать это.
 praysch	2	Молитве не нужно отводить отдельное время в школах.
-creationism		Creationism in School
-creationism	0	The universe was created by a higher power. We must teach this in our schools, and evolution should only be mentioned when demonstrating how it is wrong.
-creationism	1	The church does not belong in our public schools. Private schools may teach creationism if they wish, but public schools should only teach scientific theories such as evolution.
-creationism	2	Schools should be required to teach the evolution and evolution alone. That is science and facts, and pretending it is not does a disservice to our children
-creationism	3	The state must not take sides. Public schools should be required to teach both creationism and evolution, and students can decide for themselves what to believe.
+creationism		Креационизм в Школе
+creationism	0	Вселенная была создана высшей силой. Мы должны преподавать это в наших школах, а эволюция должна упоминаться только при демонстрации её ошибочности.
+creationism	1	Школы должны преподавать исключительно научные теории, одной из которых и является эволюция.
+creationism	2	Государство не должно принимать чью-либо сторону. Государственные школы должны быть обязаны преподавать и креационизм, и эволюцию, а ученики могут сами решать, во что им верить.
 churchtax		Taxation of Religious Buildings
 churchtax	0	Religious buildings should receive state funding to ensure they are able to stay open.
 churchtax	1	Religious buildings should be taxed, as the state should not be giving religion special privileges over other businesses.
