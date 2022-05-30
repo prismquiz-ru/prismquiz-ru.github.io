@@ -21,7 +21,7 @@ unres	for		iso/open	glob*	pop	glob	sov	nat	asim
 espionage	for		nat	sov/asim	pop	sov	glob	iso	open						
 praysch	rel		theo	hybr	sec/athe										
 creationism	rel		theo	sec/athe	hybr										
-church	rel		theo	hybr sec	athe	athe* 							
+church	rel		theo	hybr sec	athe	athe*								
 memorial	rel		theo	athe	sec	hybr									hybr
 holidays	rel		theo	sec athe	hybr									
 elections	gov		techno	repub	dir/rep	anar	auth/techno	plut	strato						
