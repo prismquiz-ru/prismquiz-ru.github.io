@@ -8,7 +8,6 @@ legal		Безопасность
 o		Я совершенно не согласен с каждой частью всех этих философий
 a		Меня не волнует этот вопрос
 prev		Предыдущий вопрос
-praysch		Молитвы в Школе
 nota		Другое
 idc		Апатия
 cent		Радикальный Центризм
@@ -103,30 +102,31 @@ nat*	desc	«Империализм», согласно этому тесту, о
 open	desc	Сторонники «Открытых границ», согласно этому тесту, обычно считают, что люди должны иметь возможность свободно въезжать и выезжать из страны. Более радикальная форма открытых границ также может предполагать отсутствие армии или каких-либо служб шпионажа. Сторонники этой модели обычно не делают многого за границей и не решаются заключать сделки, которые могут повлечь за собой риск ущемления свободы.
 open*	desc	Сторонники «Минимализма», согласно этому тесту, верят в то, что центральное правительство не должно быть настолько велико, чтобы иметь возможность действительно проводить внешнюю политику. Они обычно твердо верят в открытые границы и хотят позволить людям свободно приезжать и уезжать из страны, и обычно выступают против национального языка или культуры.
 athe*	desc	Согласно этому тесту, сторонники «Государственного антитеизма» (иначе говоря антирелигии) считают, что религия в стране должна быть полностью запрещена. Они считают, что религии не должно быть места в государстве, и будут навязывать государственный атеизм всем гражданам страны путем запрета на любую религиозную деятельность.
-praysch	0	Most schools should have daily prayer
-praysch	1	I support having a minute of silence in public schools, in which students may pray if they choose, but will not enforce it upon anyone
-praysch	2	Prayer does not need a dedicated time slot in schools. Students may pray on their own time if they wish
-praysch	3	Private religious schools may have prayers if they want, but any public schools that exist should not
+praysch		Молитвы в Школе
+praysch 0 В большинстве школ должна быть ежедневная молитва.
+praysch 1 Я поддерживаю введение в государственных школах минуты молчания, во время которой ученики могут молиться по своему выбору, но не буду никому навязывать это.
+praysch 2 Молитве не нужно отводить отдельное время в школах.
 creationism		Креационизм в Школе
-creationism	0	The universe was created by a higher power. We must teach this in our schools, and evolution should only be mentioned when demonstrating how it is wrong.
-creationism	1	The church does not belong in our public schools. Private schools may teach creationism if they wish, but public schools should only teach scientific theories such as evolution.
-creationism	2	Schools should be required to teach the evolution and evolution alone. That is science and facts, and pretending it is not does a disservice to our children
-creationism	3	The state must not take sides. Public schools should be required to teach both creationism and evolution, and students can decide for themselves what to believe.
-churchtax		Taxation of Religious Buildings
-churchtax	0	Religious buildings should receive state funding to ensure they are able to stay open.
-churchtax	1	Religious buildings should be taxed, as the state should not be giving religion special privileges over other businesses.
-churchtax	2	The state should exempt all religious buildings from taxation, as long as it is exempting those of all religions.
-churchtax	3	Religious buildings should be banned
-memorial		Religious Statements on National Memorials
-memorial	0	Religion is an important part of our nation, and most of our soldiers would want religious messages on their memorials
-memorial	1	I'm opposed to mentioning a deity that probably doesn't exist on our memorials to the real people who died for our nation.
-memorial	2	Our national memorials should not mention God or religion, only to serve to honor the fallen.
-memorial	3	There is nothing wrong with mentioning God on our memorials as long as it isn't actively promoting any particular religion.
-holidays		Religious Holidays
-holidays	0	Religious holidays of the most popular religion in the nation should also be national holidays that everyone can have off around them
-holidays	1	The state should not make religious holidays national holidays and instead have more holidays around dates significant to our nation, like an election day, or to emphasize relaxation rather than religious observation.
-holidays	2	The government should guarantee the most holy holidays of all major religions in the nation off so those of all religions can perform their religious duties
-elections		Elections
+creationism 0 Вселенная была создана высшей силой. Мы должны преподавать это в наших школах, а эволюция должна упоминаться только при демонстрации её ошибочности.
+creationism 1 Школы должны преподавать исключительно научные теории, одной из которых и является эволюция.
+creationism 2 Государство не должно принимать чью-либо сторону. Государственные школы должны быть обязаны преподавать и креационизм, и эволюцию, а ученики могут сами решать, во что им верить.
+memorial   Религиозные высказывания на национальных мемориалах
+memorial 0 Религия — важная часть нашей нации, и большинство наших солдат хотели бы видеть религиозные послания на своих мемориалах.
+memorial 1 Я против религиозных высказываний и упоминания божества, которого, вероятно, не существует, на мемориалах нашим погибшим героям.
+memorial 2 Наши национальные мемориалы не должны упоминать Бога или религию, они должны служить только для того, чтобы почтить память павших.
+memorial 3 Нет ничего плохого в упоминании Бога на наших мемориалах, если это не является активной пропагандой какой-либо конкретной религии.
+holidays   Религиозные праздники
+holidays 0 Религиозные праздники самой популярной религии в стране должны быть также национальными праздниками, чтобы все могли отдыхать в связи с ними.
+holidays 1 Государство не должно делать религиозные праздники национальными праздниками.
+holidays 2 Религиозные праздники должны иметь меньше влияния, чем они имеют сегодня, и уж точно не должны быть национальными праздниками. Вместо них лучше устраивать больше праздников вокруг значимых для нашей страны исторических дат, или делать акцент на отдыхе, а не на соблюдении религиозных обрядов.
+holidays 3 Правительство должно гарантировать наиболее святые праздники всех основных религий в стране, чтобы представители всех религий могли выполнять свои религиозные обязанности.
+church   Религиозные сооружения
+church 0 Правительство должно поощрять строительство новых храмов и церквей по всей стране. Религиозные сооружения должны получать государственное финансирование, чтобы они могли оставаться открытыми.
+church 1 Храмы и церкви важны для нашей нации, но мы должны убедиться, что в нашей стране достаточно религиозных сооружений всех религий.
+church 2 В нашей стране достаточно храмов и церквей, их число должно оставаться таким, каким оно есть сейчас. Государство и церковь не должны вмешиваться в дела друг друга.
+church 3 Храмы и церкви не являются столь значимыми для населения, необходимо сократить их количество, и вместо них построить то, что действительно нужно людям: школы, больницы, предприятия.
+church 4 Все религиозные сооружения должны быть снесены и запрещены.
+elections   Elections
 elections	0	The vote of an educated person should be worth more than that of a fool.
 elections	1	Every person must have a vote, but it should be weighted geographically for at least one chamber of the legislature to ensure one region cannot dominate the legislature
 elections	2	A vote is a vote, and all votes should count exactly the same
