@@ -103,10 +103,9 @@ nat*	desc	«Империализм», согласно этому тесту, о
 open	desc	Сторонники «Открытых границ», согласно этому тесту, обычно считают, что люди должны иметь возможность свободно въезжать и выезжать из страны. Более радикальная форма открытых границ также может предполагать отсутствие армии или каких-либо служб шпионажа. Сторонники этой модели обычно не делают многого за границей и не решаются заключать сделки, которые могут повлечь за собой риск ущемления свободы.
 open*	desc	Сторонники «Минимализма», согласно этому тесту, верят в то, что центральное правительство не должно быть настолько велико, чтобы иметь возможность действительно проводить внешнюю политику. Они обычно твердо верят в открытые границы и хотят позволить людям свободно приезжать и уезжать из страны, и обычно выступают против национального языка или культуры.
 athe*	desc	Согласно этому тесту, сторонники «Государственного антитеизма» (иначе говоря антирелигии) считают, что религия в стране должна быть полностью запрещена. Они считают, что религии не должно быть места в государстве, и будут навязывать государственный атеизм всем гражданам страны путем запрета на любую религиозную деятельность.
-praysch	0	Most schools should have daily prayer
-praysch	1	I support having a minute of silence in public schools, in which students may pray if they choose, but will not enforce it upon anyone
-praysch	2	Prayer does not need a dedicated time slot in schools. Students may pray on their own time if they wish
-praysch	3	Private religious schools may have prayers if they want, but any public schools that exist should not
+praysch	0	В большинстве школ должна быть ежедневная молитва.
+praysch	1	Я поддерживаю введение в государственных школах минуты молчания, во время которой ученики могут молиться по своему выбору, но не буду никому навязывать это.
+praysch	2	Молитве не нужно отводить отдельное время в школах.
 creationism		Creationism in School
 creationism	0	The universe was created by a higher power. We must teach this in our schools, and evolution should only be mentioned when demonstrating how it is wrong.
 creationism	1	The church does not belong in our public schools. Private schools may teach creationism if they wish, but public schools should only teach scientific theories such as evolution.
