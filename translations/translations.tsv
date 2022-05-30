@@ -115,15 +115,15 @@ churchtax	0	Religious buildings should receive state funding to ensure they are 
 churchtax	1	Religious buildings should be taxed, as the state should not be giving religion special privileges over other businesses.
 churchtax	2	The state should exempt all religious buildings from taxation, as long as it is exempting those of all religions.
 churchtax	3	Religious buildings should be banned
-memorial		Religious Statements on National Memorials
-memorial	0	Religion is an important part of our nation, and most of our soldiers would want religious messages on their memorials
-memorial	1	I'm opposed to mentioning a deity that probably doesn't exist on our memorials to the real people who died for our nation.
-memorial	2	Our national memorials should not mention God or religion, only to serve to honor the fallen.
-memorial	3	There is nothing wrong with mentioning God on our memorials as long as it isn't actively promoting any particular religion.
-holidays		Religious Holidays
-holidays	0	Religious holidays of the most popular religion in the nation should also be national holidays that everyone can have off around them
-holidays	1	The state should not make religious holidays national holidays and instead have more holidays around dates significant to our nation, like an election day, or to emphasize relaxation rather than religious observation.
-holidays	2	The government should guarantee the most holy holidays of all major religions in the nation off so those of all religions can perform their religious duties
+memorial		Религиозные высказывания на национальных мемориалах
+memorial	0	Религия — важная часть нашей нации, и большинство наших солдат хотели бы видеть религиозные послания на своих мемориалах.
+memorial	1	Я против религиозных высказываний и упоминания божества, которого, вероятно, не существует, на мемориалах нашим погибшим героям.
+memorial	2	Наши национальные мемориалы не должны упоминать Бога или религию, они должны служить только для того, чтобы почтить память павших.
+memorial	3	Нет ничего плохого в упоминании Бога на наших мемориалах, если это не является активной пропагандой какой-либо конкретной религии.
+holidays		Религиозные праздники
+holidays	0	Религиозные праздники самой популярной религии в стране должны быть также национальными праздниками, чтобы все могли отдыхать в связи с ними.
+holidays	1	Государство не должно делать религиозные праздники национальными праздниками.
+holidays	2	Религиозные праздники должны иметь меньше влияния, чем они имеют сегодня, и уж точно не должны быть национальными праздниками. Вместо них лучше устраивать больше праздников вокруг значимых для нашей страны исторических дат, или делать акцент на отдыхе, а не на соблюдении религиозных обрядов.
 elections		Elections
 elections	0	The vote of an educated person should be worth more than that of a fool.
 elections	1	Every person must have a vote, but it should be weighted geographically for at least one chamber of the legislature to ensure one region cannot dominate the legislature
