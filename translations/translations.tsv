@@ -204,31 +204,31 @@ peoplepolicy	2	Население в целом имеет плохое мнен
 peoplepolicy	3	Люди должны иметь право голоса, но правительство должно стараться избегать тирании большинства, имея больше местного представительства, а не навязывая общенациональное народное мнение всему народу.
 peoplepolicy	4	Мнение других людей не должно влиять на то, что вам разрешено делать.
 peoplepolicy	5	Население обычно знает, чего оно хочет, но нельзя ожидать, что у него будет время на изучение и голосование по каждому вопросу, поэтому следует делегировать это представителям.
-healthcare		Healthcare
-healthcare	0	I support private insurance and healthcare providers, but ensuring that prices are competitive relative to the cost to produce them and prosecuting any cases of price fixing
-healthcare	1	I do not want to ban private healthcare or insurance, but I want a public option that will provide a fair rate, that will put private companies that are taking advantage of customers out of business
-healthcare	2	Both Healthcare and treatment should be directly provided and guaranteed to all citizens by the nation
-healthcare	3	I believe in having not just one, but many government-owned healthcare options. The cost for all of them will be paid for, but you can choose the one that you think has the best service, to create competition between them
-healthcare	4	Healthcare should be left to the free market. If healthcare providers or insurers aren't providing affordable service, they will not have customers and go out of business
-healthcare	5	Healthcare service should be private, but I will ensure that the government provides a single-payer system to ensure nobody needs to worry about being able to afford the healthcare they need
-healthcare	6	Allowing healthcare providers to set their own prices freely allows them to fund additional research and benefits us all by providing new, better treatments
-minwage		Minimum Wage
-minwage	0	All companies should be required to split their profits fairly throughout their employees. Anyone in charge of the company should not be allowed to be paid significantly more than those at the bottom of the company
-minwage	1	There should be a national program that guarantees a job with a wage that people can live comfortably on, working on things such as better infrastructure. Companies that pay less than that will have trouble finding workers to fill their openings
-minwage	2	The majority of working people should be paid the value of their labor (with a minimum, a comfortable living wage). There should also be a maximum wage, and managers and executives should be paid a lot less.
-minwage	3	People should be guaranteed a living wage from their jobs. They should be able to work a single job with reasonable hours and be guaranteed enough to afford everything they need
-minwage	4	There should be no minimum wage. The markets will figure out how much labor is worth and allow us to keep prices competitive with those produced with labor abroad
-minwage	5	There should be a moderate living wage that won't put small businesses out of business, as well as a tax on large companies with many workers below the poverty line to pay for any welfare their employees receive and ensure small businesses are competitive
-minwage	6	Workers should have a minimum wage to prevent a race to the bottom, but executives develop ideas for their business and take risks in founding it and thus deserve a large portion of their company's profits
-minwage	7	People should produce as they can and consume what they need. The concept of money should not exist
-isp		Internet Service Providers
-isp	0	We should regulate internet service providers to ensure that they provide nationwide coverage and that there are multiple options everywhere to allow competition, and prosecute them if the companies form deals that allow them to create regional monopolies
-isp	1	It is expensive for ISPs to connect areas to the internet. They will do their best to ensure coverage at an affordable price, and should only be penalized if they fail to deliver the quality and reliability of internet that they advertised
-isp	2	Through taxes, the government should subsidize multiple internet service providers expanding to all areas of the nation in exchange for price guarantees to ensure that everyone has multiple affordable options for internet
-isp	3	We should have a national internet service provider that guarantees affordable, reliable, high-speed internet through the entire country. Private companies will have to compete with that as a baseline
-isp	4	High Speed Internet Service Providers must be nationalized. They aren't able to have fair competition due to the cost of laying out cables, especially in rural areas
-isp	5	We must make it feasible for people to start government-backed internet service providers in their area. These will be owned by the government and provided to everyone, however, people may choose which ISP they want among the options in the area
-isp	6	Internet service providers should not be regulated and will find the fair price for internet, which may vary based on how expensive it is to connect an area, based on how much that is worth
+healthcare		Здравоохранение
+healthcare	0	Я поддерживаю частное страхование и поставщиков медицинских услуг, но при условии, что цены будут конкурентоспособными по отношению к затратам на их производство, и преследовании любых случаев ценового сговора.
+healthcare	1	Я не хочу запрещать частное здравоохранение или страхование, но я хочу, чтобы был государственный вариант, который обеспечит справедливые цены, который выведет из бизнеса частные компании, использующие клиентов в своих интересах.
+healthcare	2	И здравоохранение, и лечение должны напрямую предоставляться и гарантироваться всем гражданам государством.
+healthcare	3	Я верю в то, что у нас будет не один, а много государственных вариантов медицинского обслуживания. Все они будут оплачиваться, но вы сможете выбрать тот, в котором, по вашему мнению, лучшее обслуживание, чтобы создать конкуренцию между ними.
+healthcare	4	Здравоохранение должно быть предоставлено свободному рынку. Если поставщики медицинских услуг или страховщики не будут предоставлять доступные услуги, у них не будет клиентов, и они обанкротятся.
+healthcare	5	Медицинские услуги должны быть частными, но я позабочусь о том, чтобы правительство создало систему единого плательщика, чтобы никто не беспокоился о том, что сможет позволить себе необходимое медицинское обслуживание.
+healthcare	6	Разрешение поставщикам медицинских услуг свободно устанавливать свои собственные цены позволяет им финансировать дополнительные исследования и приносит пользу всем нам, предоставляя новые, лучшие методы лечения.
+minwage		Минимальная заработная плата
+minwage	0	Все компании должны быть обязаны справедливо распределять прибыль между своими сотрудниками. Любой человек, стоящий во главе компании, не должен иметь права получать значительно большую зарплату, чем те, кто находится в самом низу компании.
+minwage	1	Должна существовать национальная программа, гарантирующая работу с зарплатой, на которую люди могут комфортно жить, работая над такими вещами, как улучшение инфраструктуры. Компании, которые платят меньше этой зарплаты, будут испытывать трудности с поиском работников для заполнения своих вакансий.
+minwage	2	Большинство работающих людей должны получать стоимость своего труда (с минимальным, комфортным прожиточным минимумом). Также должна быть установлена максимальная заработная плата, а менеджерам и руководителям следует платить гораздо меньше.
+minwage	3	Людям должен быть гарантирован прожиточный минимум от их работы. Они должны иметь возможность работать на одной работе с разумной продолжительностью рабочего дня и иметь гарантированный достаток, чтобы позволить себе все необходимое.
+minwage	4	Минимальной заработной платы быть не должно. Рынки сами определят, сколько стоит труд, и позволят нам поддерживать конкурентоспособные цены по сравнению с товарами, произведенными с использованием иностранной рабочей силы.
+minwage	5	Должен быть умеренный прожиточный минимум, который не приведёт к банкротству малого бизнеса, а также налог на крупные компании с большим количеством работников за чертой бедности, чтобы оплатить все социальные пособия, которые получают их работники, и обеспечить конкурентоспособность малого бизнеса.
+minwage	6	Рабочие должны иметь минимальную заработную плату, чтобы предотвратить гонку на дно, но руководители компаний разрабатывают идеи для своего бизнеса и берут на себя риски при его основании и поэтому заслуживают большую часть прибыли своей компании.
+minwage	7	Люди должны производить столько, сколько могут, и потреблять столько, сколько им нужно. Понятия денег не должно существовать.
+isp		Провайдеры интернет-услуг
+isp	0	Мы должны регулировать деятельность интернет-провайдеров, чтобы гарантировать, что они обеспечивают общенациональное покрытие и что везде есть несколько вариантов, чтобы обеспечить конкуренцию, и преследовать их в судебном порядке, если компании заключают сделки, позволяющие им создавать региональные монополии.
+isp	1	Для провайдеров дорого подключать районы к интернету. Они будут делать все возможное, чтобы обеспечить покрытие по доступной цене, и их следует наказывать только в том случае, если они не смогут обеспечить качество и надёжность интернета, которые они рекламировали.
+isp	2	За счёт налогов правительство должно субсидировать многочисленных поставщиков интернет-услуг, охватывающих все районы страны, в обмен на ценовые гарантии, чтобы у каждого было несколько доступных вариантов подключения к интернету.
+isp	3	У нас должен быть национальный интернет-провайдер, который гарантирует доступный, надёжный, высокоскоростной интернет на всей территории страны. Частные компании должны будут конкурировать с ним в качестве базового уровня.
+isp	4	Поставщики услуг высокоскоростного интернета должны быть национализированы. Они не могут обеспечить честную конкуренцию из-за стоимости прокладки кабелей, особенно в сельской местности.
+isp	5	Мы должны сделать возможным для людей создание поддерживаемых правительством интернет-провайдеров в их регионе. Они будут принадлежать государству, и люди смогут выбирать, какого интернет-провайдера они хотят среди имеющихся в районе вариантов, чтобы создать конкуренцию между ними.
+isp	6	Интернет-провайдеры не должны регулироваться и сами будут находить справедливую цену за интернет, которая может варьироваться в зависимости от того, насколько дорого подключить тот или иной район, исходя из того, сколько это стоит.
 ubi		Universal Basic Income
 ubi	0	Guaranteeing income is a dangerous idea that disincentivizes working. This would hurt the economy, and I cannot support it
 ubi	1	I support a universal basic income paid for by large companies outsourcing or automating jobs almost as much as the difference in cost to allow small businesses to remain competitive
@@ -427,7 +427,7 @@ espionage	5	We should not even have a foreign espionage agency. Our domestic age
 espionage	6	We should not have any espionage agency
 A		Выберите вариант, который вам ближе всего
 BL		Нажмите ?, если предпочтение незначительное
-BR		Нажмите ✓, если это определенно ваше предпочтение
+BR		Нажмите ✓, если это определённо ваше предпочтение
 all		Все
 home		Главная страница
 values		Возможные значения
