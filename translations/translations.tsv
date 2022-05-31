@@ -343,12 +343,12 @@ ai	1	Люди и компании должны иметь возможность
 ai	2	Мы должны полностью принять ИИ. Скоро он сможет и должен быть способен принимать решения гораздо объективнее, быстрее и эффективнее, чем человек.
 ai	3	Искусственный интеллект в значительной степени отнимает рабочие места у работников с низким уровнем дохода и может нанести ущерб их средствам к существованию. Более того, обучая ИИ на необъективных данных, можно скрывать таким образом дискриминацию. Мы должны ограничить его использование.
 ai	4	Мы должны принять искусственный интеллект, но должны быть уверены, что для работников, которых он вытеснит, есть адекватные альтернативы, что любой ущерб, который он может нанести, будет ограничен, и что он будет защищать частную жизнь.
-prostitution		Prostitution
-prostitution	0	People should be free to do what they want with their bodies. If they want to sell themselves for sex, that's their own choice
-prostitution	1	Sex should be reserved for marriage, or at least a long-term relationship. Prostitution and other sex work is immoral
-prostitution	2	Unapproved sex should not be permitted, as it may result in children with less than ideal characteristics
-prostitution	3	We should have regulated prostitution and other sex work because the alternative is a black market for it which is much worse
-prostitution	4	Prostitution takes advantage of the poor by making them sell themselves off to rich people just to be able to pay the bills. It should be illegal to buy
+prostitution		Проституция
+prostitution	0	Люди должны быть свободны делать со своим телом всё, что они хотят. Если они хотят продавать себя за секс, это их собственный выбор.
+prostitution	1	Секс должен быть предназначен только для брака или, по крайней мере, для долгосрочных отношений. Проституция и другие виды секс-работы аморальны.
+prostitution	2	Не следует разрешать несанкционированный секс, так как это может привести к появлению детей с далеко неидеальными характеристиками.
+prostitution	3	Мы должны регулировать проституцию и другие виды секс-работы, потому что альтернативой этому является чёрный рынок, что гораздо хуже.
+prostitution	4	Проституция использует бедных в своих интересах, заставляя их продавать себя богатым людям только для того, чтобы иметь возможность оплачивать счета. Покупка секса должна быть незаконной.
 immigration		Immigration
 immigration	0	Immigrants caught breaking laws should be deported, but those who illegally enter the country should be overlooked and allowed to stay, as they work lower wages and in worse conditions than our citizens, and allow us to reduce the cost of living for our citizens
 immigration	1	We need to be able to screen immigrants coming into our country and ultimately decide who enters. Those who enter unlawfully must be found and deported
