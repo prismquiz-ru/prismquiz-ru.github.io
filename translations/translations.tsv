@@ -241,34 +241,34 @@ ubi	7	Вместо того чтобы начинать налогообложе
 ubi	8	Людям должны быть гарантированы их потребности. Такие доходы, как безусловный базовый доход, не должны существовать.
 utilities		Коммунальные услуги
 utilities	0	Коммунальные службы найдут справедливую конкурентную цену. Они не должны регулироваться, даже если только одна компания обслуживает район, они должны конкурировать, потому что люди будут принимать их во внимание при выборе района для проживания.
-utilities	1	Коммунальные услуги должны принадлежать местным государственным компаниям и предоставляться для небольшой группы населения, которую они обслуживают. У людей будет выбор, услуги какой компании использовать, создавая таким образом конкуренцию между ними.
+utilities	1	Коммунальные услуги должны принадлежать местным государственным компаниям и предоставляться для небольшой группы населения, которую они обслуживают. У людей будет выбор, услуги какой компании использовать, обеспечивая таким образом конкуренцию между ними.
 utilities	2	Коммунальные услуги, такие как электричество и вода, должны быть национализированы. Это общественные блага, которые нужны всем. Общественный контроль позволяет добиться наилучшего качества, поскольку во многих местах существует только один вариант.
 utilities	3	Правительство должно субсидировать коммунальные компании, расширяющие свою деятельность во всех районах страны. В обмен на эту помощь компании должны гарантировать справедливую цену и другие гарантии, например, определённый процент возобновляемой электроэнергии каждый год.
 utilities	4	Создание коммунальной инфраструктуры обходится компаниям дорого, и от них следует ожидать установления справедливой прибыльной цены, чтобы окупить свои инвестиции в разумные сроки.
 utilities	5	Мы должны иметь национальные коммунальные компании, но не запрещать частные компании. Если они смогут найти рынок, то смогут конкурировать с национализированными вариантами.
 utilities	6	Коммунальные услуги должны регулироваться для обеспечения совместимости систем, чтобы несколько компаний могли подключаться к одному и тому же зданию. Мы должны преследовать монополии, которые не предоставляют выбора.
-privateschools		Private Schools
-privateschools	0	Schools should be private, but the government should provide vouchers to the poor to ensure that every child is able to afford attending school
-privateschools	1	All schools should be public schools, however, parents and students should be able to choose which public school they attend rather than having it chosen automatically based on location
-privateschools	2	The state should own all schools. This makes it easier to ensure all our students have an equal opportunity to succeed
-privateschools	3	There should be a mixture of public and private schools, however, public schools should receive a lot of funding to ensure our children are well educated and ensure they are competitive with private schools
-privateschools	4	There should not be public schools. The state should have no obligation to provide education to those who cannot afford it
-outsourcing		Outsourcing
-outsourcing	0	The Government should nationalize all manufacturing in the nation, and should not outsource jobs
-outsourcing	1	We should have national manufacturing subsidized by taxes to keep prices competitive with outsourced jobs. Buyers can decide for themselves which are better
-outsourcing	2	We should remove the minimum wage here. Then costs of producing here will be lower than producing abroad and shipping here
-outsourcing	3	We should regulate companies to only provide subsidies and government purchases to businesses that perform key manufacturing within the nation, not abroad
-outsourcing	4	Outsourcing manual labor allows our citizens to have cheap goods and not have to do routine manual labor, allowing jobs here to be complex work
-outsourcing	5	The government should own most industry, but should allow competition between them so there is not just one choice. Since they are government-owned, we can ensure it is all domestically produced
-outsourcing	6	We should impose heavy fees on goods produced in countries with worse labor rights than us to ensure companies can produce everything here and have fair competition
-bankcrash		Bank Crashing that Will Damage the Economy
-bankcrash	0	We should create a single national government-owned bank, and buy all the current banks including the one that is failing. This ensures everyone can pay the same rates and that we can take on the debt the failing one owes
-bankcrash	1	The issue is that we have private megabanks. We should instead have local-government-owned community banks that work in the interests of the communities they represent and fund businesses in the area
-bankcrash	2	We must not interfere with the free markets. It will fail, and eventually the economy will rebuild itself
-bankcrash	3	We should break up big banks before they get to a situation where a crash like this can be caused by one company
-bankcrash	4	We should bail out the bank to save the economy but eventually have the bank pay back the money with interest
-bankcrash	5	We should purchase this bank and run it as a national bank. Other banks can compete with us, but we can guarantee we won't go bankrupt
-bankcrash	6	Banks should not exist in any form
+privateschools		Частные школы
+privateschools	0	Школы должны быть частными, но правительство должно предоставлять ваучеры бедным, чтобы каждый ребёнок мог позволить себе посещать школу.
+privateschools	1	Школы должны быть государственными, однако родители и ученики должны иметь возможность выбирать, какую государственную школу посещать, обеспечивая конкуренцию.
+privateschools	2	Все школы должны принадлежать государству. Это облегчит обеспечение равных возможностей для успеха всех наших учеников.
+privateschools	3	Должна быть смесь государственных и частных школ, однако государственные школы должны получать большое финансирование, чтобы наши дети получали хорошее образование и чтобы они были конкурентоспособны по сравнению с частными школами.
+privateschools	4	Государственных школ быть не должно. Государство не должно быть обязано предоставлять образование тем, кто не может его себе позволить.
+outsourcing		Аутсорсинг
+outsourcing	0	Государство должно национализировать всё производство в стране и не передавать рабочие места на аутсорсинг.
+outsourcing	1	Мы должны иметь национальное производство, субсидируемое налогами, чтобы цены были конкурентоспособными по сравнению с работой, переданной на аутсорсинг. Покупатели могут сами решать, что лучше.
+outsourcing	2	Мы должны отменить минимальную заработную плату здесь. Тогда затраты на производство здесь будут ниже, чем на производство за рубежом и доставку сюда.
+outsourcing	3	Мы должны регулировать деятельность компаний, чтобы предоставлять субсидии и государственные закупки только тем предприятиям, которые осуществляют ключевое производство внутри страны, а не за рубежом.
+outsourcing	4	Аутсорсинг ручного труда позволяет нашим гражданам иметь дешёвые товары и не заниматься рутинным ручным трудом, позволяя выполнять здесь сложную работу.
+outsourcing	5	Государство должно владеть большей частью промышленности, но должно допускать конкуренцию между ними, чтобы не было только одного выбора. Поскольку они принадлежат государству, мы можем гарантировать, что все они производятся внутри страны.
+outsourcing	6	Мы должны ввести большие пошлины на товары, произведённые в странах с худшими трудовыми правами, чем у нас, чтобы компании могли производить всё здесь и иметь честную конкуренцию.
+bankcrash		Крах банка, который нанесёт ущерб экономике
+bankcrash	0	Мы должны создать единый национальный банк, принадлежащий государству, и купить все существующие банки, включая тот, который терпит крах. Это гарантирует, что все смогут платить по одинаковым ставкам, и что мы сможем взять на себя долг обанкротившегося банка.
+bankcrash	1	Проблема в том, что у нас есть частные мегабанки. Вместо этого у нас должны быть местные общественные банки, принадлежащие местному правительству, которые работают в интересах общин, которые они представляют, и финансируют бизнес в этом районе.
+bankcrash	2	Мы не должны вмешиваться в свободные рынки. Они потерпят неудачу, и в конечном итоге экономика восстановится сама собой.
+bankcrash	3	Мы должны разбить крупные банки, пока они не дошли до ситуации, когда подобный крах может быть вызван одной компанией.
+bankcrash	4	Мы должны выручить банк, чтобы спасти экономику, но в конечном итоге заставить банк вернуть деньги с процентами.
+bankcrash	5	Мы должны купить этот банк и управлять им как национальным банком. Другие банки могут конкурировать с нами, но мы можем гарантировать, что не обанкротимся.
+bankcrash	6	Банки не должны существовать ни в какой форме.
 highways		Highways
 highways	0	Local governments should build and maintain highways. This ensures they are responsive to the wishes of local communities and their wishes
 highways	1	Roads should be privatized. Private highways ensure that only those who use them pay for them and will create better quality
