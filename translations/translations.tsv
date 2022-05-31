@@ -306,30 +306,30 @@ freespeech	1	Speech should be free, but you should not be guaranteed protection 
 freespeech	2	You should not have freedom of speech. The state should decide what is acceptable to say
 freespeech	3	Speech should generally be free, if it is literal speech. However, symbolic speech such as destroying a symbols of the government or religious texts are grossly offensive and should be banned
 freespeech	4	We should ban and penalize very offensive language such as slurs. These should be penalized through fines offline and deplatforming online
-drugs		Drugs
-drugs	0	Drugs are dangerous for our society and can tear apart families and relationships. Selling them for recreational use should be banned for our safety and we should have programs to educate people on the dangers they pose
-drugs	1	Bans on many drugs like marijuana were designed to disproportionately affect the poor and minorities. We should overturn most drug-related convictions and institute programs to help addicts get their lives back in order
-drugs	2	What you put in your own body is your own business. We should legalize drugs so that they don't go to the black market
-drugs	3	We should educate our children to the dangers of drugs and ban the most harmful ones, but ones like Marijuana should be legal for recreational use
-drugs	4	We can use drugs to ensure people are incapable of causing trouble. We can mandate them and only provide them to when people act in accordance with how the state requires
-baker		Religious Baker Refuses to Make Gay Marriage Cake
-baker	0	Unless they were asking him to draw a graphic image depicting homosexuality, he should not have a problem with it. If it's just writing their names and something like a pride flag, it's discrimination to refuse the request
-baker	1	This is unacceptable discrimination and homophobia. This man should not be in business
-baker	2	The couple should be arrested. They should be pairing with someone who they can produce babies with
-baker	3	The baker is being asked to make something against his religion. He should have no obligation to create something celebrating that
-baker	4	People should never be mandated to do anything. He should be able to deny his services to anyone for any reason, they can get one elsewhere
-abortion		Abortion
-abortion	0	The right to life is a fundamental right, and abortion should be banned in nearly all cases
-abortion	1	Bans on abortions primarily hurt the poor and often leaves single mothers stuck in poverty with a baby. Abortion should be legal for everyone
-abortion	2	You should have full control over your body, including the right to have an abortion
-abortion	3	Abortion should be legal but rare. People should be educated of alternate methods of contraception and there should be restrictions on late-term abortions without a reason
-abortion	4	If the state approves you to have a baby, you should have it unless the mother's life is in danger. People who are not approved to have babies should have abortions mandated, however, and face strict penalties
-climate		Climate Change
-climate	0	We must act to prevent climate change, and everyone must do their part. We should provide incentives for individuals to go green, and regulate companies to meet environmental standards
-climate	1	Corporations and the rich are the biggest contributors to climate change. We should direct most of our regulations at them to ensure that people are not wasting energy powering a giant mansion they don't need
-climate	2	Global warming doesn't actually exist. It’s crazy to ask everyone to overhaul things like their buildings and cars to combat it.
-climate	3	People should not be mandated to do anything to fight climate change. People may voluntarily reduce emissions it if they wish
-climate	4	The population should be expected to minimize their own waste to ensure that as many resources as possible remain for the state to use to support their interests
+drugs		Наркотики
+drugs	0	Наркотики опасны для нашего общества и могут разрушить семьи и отношения. Для нашей безопасности следует запретить их продажу для рекреационного использования и проводить программы по просвещению людей об опасностях, которые они представляют.
+drugs	1	Запреты на многие наркотики, например, марихуану, были разработаны для непропорционального воздействия на бедные слои населения и меньшинства. Мы должны отменить большинство приговоров, связанных с наркотиками, и ввести программы, помогающие наркоманам вернуть свою жизнь в нормальное русло.
+drugs	2	То, что вы делаете со своим организмом, — ваше личное дело. Мы должны легализовать наркотики, чтобы они не попадали на чёрный рынок.
+drugs	3	Мы должны просвещать наших детей об опасности наркотиков и запретить самые вредные из них, но такие, как марихуана, должны быть разрешены для рекреационного использования.
+drugs	4	Мы можем использовать наркотики, чтобы убедиться, что люди не способны создавать проблемы. Мы можем запретить их и предоставлять только тогда, когда люди действуют в соответствии с требованиями государства.
+baker		Религиозный пекарь отказывается печь торт для гей-пары
+baker	0	Если они не просят его нарисовать графическое изображение, изображающее гомосексуализм, у него не должно быть проблем с этим. Если это просто написание их имен и что-то вроде флага гордости, то отказ — это дискриминация.
+baker	1	Это неприемлемая дискриминация и гомофобия. Этот человек не должен заниматься бизнесом.
+baker	2	Эта пара должна быть арестована. Они должны быть в браке с кем-то, с кем они могут произвести на свет детей.
+baker	3	Пекаря просят сделать что-то против его религии. Он не должен быть обязан печь что-то в честь этого.
+baker	4	Люди никогда не должны быть обязаны что-либо делать. Пекарь должен иметь возможность отказать в своих услугах любому по любой причине, они могут получить торт в другом месте.
+abortion		Аборт
+abortion	0	Право на жизнь является фундаментальным правом, и аборты должны быть запрещены почти во всех случаях.
+abortion	1	Запреты на аборты в первую очередь вредят бедным и часто оставляют матерей-одиночек в нищете с ребенком. Аборт должен быть легальным для всех.
+abortion	2	Вы должны иметь полный контроль над своим телом, в том числе возможность сделать аборт без каких-либо ограничений.
+abortion	3	Аборт должен быть легальным, но редким. Люди должны быть осведомлены об альтернативных методах контрацепции, и должны быть введены ограничения на аборты на поздних сроках без причины.
+abortion	4	Если государство разрешает вам иметь ребенка, вы должны его иметь, если только жизнь матери не находится под угрозой. Однако для людей, не получивших разрешения на рождение ребенка, аборты должны быть обязательными, и к ним должны применяться строгие меры наказания.
+climate		Изменение климата
+climate	0	Мы должны действовать, чтобы предотвратить изменение климата, и каждый должен внести свой вклад. Мы должны стимулировать отдельных людей к переходу на «зелёный» образ жизни, а также регулировать деятельность компаний, чтобы они соответствовали экологическим стандартам.
+climate	1	Корпорации и богатые люди вносят наибольший вклад в изменение климата. Мы должны направить на них большую часть наших нормативных актов, чтобы люди не тратили энергию на питание огромных особняков, которые им не нужны.
+climate	2	Глобального потепления на самом деле не существует. Безумие требовать от всех перестраивать здания и автомобили для борьбы с ним.
+climate	3	Люди не должны быть обязаны делать что-либо для борьбы с изменением климата. Люди могут добровольно сокращать выбросы, если хотят.
+climate	4	От населения следует ожидать минимизации собственных отходов, чтобы как можно больше ресурсов оставалось для использования государством для поддержания своих интересов.
 reproductive		Reproductive Incentives
 reproductive	0	We need to keep our population in check, but incentives will not stop the rich, so we should have a hard limit on the number of children a person may have
 reproductive	1	People should have as many children as they want. That is not the business of the state
