@@ -187,23 +187,23 @@ leaderselect	3	Лидеры должны выбираться на основе 
 leaderselect	4	Лидеры должны быть выбраны демократическим путём нацией, которую они возглавят.
 leaderselect	5	Лидеры должны быть выбраны людьми, имеющими наибольшую долю в стране, подобно тому, как корпорация может выбрать своего генерального директора.
 leaderselect	6	У нас не должно быть единого лидера, который выбирается любым способом.
-policysetting		Power for Policy-Setting
-policysetting	0	Power to set policy should largely lie at the provincial or local level, with limited national power
-policysetting	1	The executive of the nation should hold the majority of decision-making power and generally be the one to create policy
-policysetting	2	An elected national legislative branch should primarily be the one to set policy for the entire nation and overrule any laws at the provincial level
-policysetting	3	Policy-setting power should lie within the executive branch, but through the appointed cabinet and bureaucracy who can better specialize their knowledge more than the executive
-policysetting	4	Power should lie with the people directly, who should initiate legislation through citizen-initiated ballot measures
-policysetting	5	The wealthiest individuals should hold power, as they are generally the most capable and contribute the most to the nation
-policysetting	6	The military should ultimately hold power and the ability to set policy
-policysetting	7	No person or body should hold power over an individual, we should be free to live our lives
-policysetting	8	Power should be shared between the national and local governments roughly equally
-peoplepolicy		The Role of People in Policy
-peoplepolicy	0	The population, as a collective, generally can understand and make good decisions in terms of policy with a little bit of explanation, to be able to decide what they want directly
-peoplepolicy	1	The wealthy tend to know what they want and have good opinions, but the poor rarely know what is good for them
-peoplepolicy	2	The general population has bad opinions and the government would be better off without their opinions
-peoplepolicy	3	People must be given a say, but government must try to avoid the tyranny of the majority by having more local representation rather than enforcing the nationwide popular opinion on the whole nation
-peoplepolicy	4	Other people's opinions should not have an effect on what you are allowed to do
-peoplepolicy	5	The population generally knows what they want, but cannot be expected to have the time to research and vote on each issue and should delegate it it to representatives
+policysetting		Полномочия для установления политики
+policysetting	0	Власть по установлению политики должна в основном находиться на провинциальном или местном уровне, с ограниченной властью на национальном уровне.
+policysetting	1	Исполнительная власть страны должна обладать большинством полномочий по принятию решений и, как правило, создавать политику.
+policysetting	2	Избранная национальная законодательная власть должна в первую очередь определять политику для всей страны и отменять любые законы на уровне провинций.
+policysetting	3	Власть по формированию политики должна принадлежать исполнительной власти, но через назначаемый кабинет министров и бюрократию, которые могут лучше специализировать свои знания, чем исполнительная власть.
+policysetting	4	Власть должна принадлежать непосредственно народу, который должен инициировать принятие законов путём голосования по инициативе граждан.
+policysetting	5	Власть должна принадлежать самым богатым людям, поскольку они, как правило, наиболее способные и вносят наибольший вклад в развитие страны.
+policysetting	6	В конечном итоге власть и возможность определять политику должны принадлежать военным.
+policysetting	7	Ни один человек или орган не должен иметь власть над человеком, мы должны быть свободны в своей жизни.
+policysetting	8	Власть должна быть разделена между национальными и местными органами власти примерно поровну.
+peoplepolicy		Роль населения в политике
+peoplepolicy	0	Население, как коллектив, обычно может понимать и принимать хорошие решения в отношении политики с небольшим количеством объяснений, чтобы иметь возможность напрямую решать, чего они хотят.
+peoplepolicy	1	Богатые, как правило, знают, чего они хотят, и имеют хорошее мнение, но бедные редко знают, что для них хорошо.
+peoplepolicy	2	Население в целом имеет плохое мнение, и правительству было бы лучше обойтись без него.
+peoplepolicy	3	Люди должны иметь право голоса, но правительство должно стараться избегать тирании большинства, имея больше местного представительства, а не навязывая общенациональное народное мнение всему народу.
+peoplepolicy	4	Мнение других людей не должно влиять на то, что вам разрешено делать.
+peoplepolicy	5	Население обычно знает, чего оно хочет, но нельзя ожидать, что у него будет время на изучение и голосование по каждому вопросу, поэтому следует делегировать это представителям.
 healthcare		Healthcare
 healthcare	0	I support private insurance and healthcare providers, but ensuring that prices are competitive relative to the cost to produce them and prosecuting any cases of price fixing
 healthcare	1	I do not want to ban private healthcare or insurance, but I want a public option that will provide a fair rate, that will put private companies that are taking advantage of customers out of business
