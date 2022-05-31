@@ -349,15 +349,15 @@ prostitution	1	Секс должен быть предназначен толь�
 prostitution	2	Не следует разрешать несанкционированный секс, так как это может привести к появлению детей с далеко неидеальными характеристиками.
 prostitution	3	Мы должны регулировать проституцию и другие виды секс-работы, потому что альтернативой этому является чёрный рынок, что гораздо хуже.
 prostitution	4	Проституция использует бедных в своих интересах, заставляя их продавать себя богатым людям только для того, чтобы иметь возможность оплачивать счета. Покупка секса должна быть незаконной.
-immigration		Immigration
-immigration	0	Immigrants caught breaking laws should be deported, but those who illegally enter the country should be overlooked and allowed to stay, as they work lower wages and in worse conditions than our citizens, and allow us to reduce the cost of living for our citizens
-immigration	1	We need to be able to screen immigrants coming into our country and ultimately decide who enters. Those who enter unlawfully must be found and deported
-immigration	2	We can accept immigrants, but they should be expected to learn our language and culture, and do their best to integrate with our people and way of life
-immigration	3	We should accept and encourage talented, educated immigrants to move here. We can provide them the best of our country, and they can better our country with their talents
-immigration	4	I support opening our borders to anyone who wants to immigrate. Freedom of movement is an essential human right
-immigration	5	We should close our borders and completely shut down immigration. Our nation is for our people alone
-immigration	6	We must ensure that there is a need for the immigrants we let in. Those who take low-paying jobs anyone can do are taking jobs from our own citizens. However, I would support immigrants with skills where we have a shortage
-immigration	7	We must make it easy and quick to legally immigrate into this country. Immigrants improve our nation, and we can provide many of them a much better quality of life
+immigration		Иммиграция
+immigration	0	Иммигранты, попавшиеся на нарушении законов, должны быть депортированы, но на тех, кто незаконно въезжает в страну, следует обращать внимание и разрешать им оставаться, поскольку они работают за меньшую зарплату и в худших условиях, чем наши граждане, и позволяют нам снизить стоимость жизни для наших граждан.
+immigration	1	Мы должны иметь возможность проверять иммигрантов, прибывающих в нашу страну, и в конечном итоге решать, кто въезжает в страну. Те, кто въезжает незаконно, должны быть найдены и депортированы.
+immigration	2	Мы можем принимать иммигрантов, но от них следует ожидать изучения нашего языка и культуры, а также приложить все усилия для интеграции в наш народ и образ жизни.
+immigration	3	Мы должны принимать и поощрять переезд к нам талантливых, образованных иммигрантов. Мы можем предоставить им лучшее, что есть в нашей стране, а они смогут улучшить нашу страну своими талантами.
+immigration	4	Я поддерживаю идею открытия наших границ для всех, кто хочет иммигрировать. Свобода передвижения — это важнейшее право человека.
+immigration	5	Мы должны закрыть наши границы и полностью прекратить иммиграцию. Наша нация предназначена только для нашего народа.
+immigration	6	Мы должны убедиться, что в иммигрантах, которых мы впускаем, есть потребность. Те, кто берётся за низкооплачиваемую работу, которую может выполнять любой, отнимают работу у наших граждан. Однако я бы поддержал иммигрантов, обладающих профессиональными навыками там, где у нас их не хватает.
+immigration	7	Мы должны облегчить и ускорить процесс легальной иммиграции в нашу страну. Иммигранты улучшают нашу нацию, и мы можем обеспечить многим из них гораздо лучшее качество жизни.
 parliament		Regional Union+Parliament (like the EU)
 parliament	0	This union contains many nations with many languages, identities, and cultures, and they are able to maintain those cultural identities. As such, I see no issue with our membership
 parliament	1	I support this regional union. We should use this common parliament to push forward legislation that benefits the people of all of our nations
@@ -374,26 +374,26 @@ intcurrency	3	I am opposed to sharing a currency with other nations. We need to 
 intcurrency	4	I support using a shared currency with neighboring nations. It allows our people and theirs to easily travel to each other and eases transactions across the shared currency zone
 intcurrency	5	Having the ability to print our own currency when we need to stimulate our economy is valuable to our nation, and is worth more than the benefits of a shared currency
 intcurrency	6	The government should not be regulating currency, people should be free to choose what they accept as pay, such as cryptocurrency, material goods, or the currency of another nation, if they believe that has value
-refugees		Refugees
-refugees	0	We should accept refugees only if they are able to offer something to our nation, whether it is specialist talents, or intel on the country they are fleeing
-refugees	1	It is our duty to help people in need. We should take in as many refugees as we are able to comfortably support
-refugees	2	If they can make it to our country, we should not deny them entry, they should have the right to be a part of our nation
-refugees	3	These people could pose a threat to our citizens. We should accept very few refugees only after extensive background checks, under strict conditions
-refugees	4	Refugees are not our problem. They should not be allowed to enter the nation
-refugees	5	We must have a system where refugees have background checks, but after they pass, we should let them in subject to conditions for integrating into our society
+refugees		Беженцы
+refugees	0	Мы должны принимать беженцев только в том случае, если они могут что-то предложить нашей стране, будь то таланты специалистов или сведения о стране, из которой они бегут.
+refugees	1	Наш долг — помогать нуждающимся людям. Мы должны принять столько беженцев, сколько мы в состоянии комфортно содержать.
+refugees	2	Если они смогут добраться до нашей страны, мы не должны отказывать им во въезде, они должны иметь право быть частью нашего народа.
+refugees	3	Эти люди могут представлять угрозу для наших граждан. Мы должны принимать очень мало беженцев, только после тщательной проверки биографии, на строгих условиях.
+refugees	4	Беженцы — не наша проблема. Им не следует разрешать въезд в страну.
+refugees	5	У нас должна быть система, при которой беженцы проходят проверку, но после того, как они её проходят, мы должны впускать их в страну при соблюдении условий для интеграции в наше общество.
 minoritylang		Minority Group Making Language Official Where Spoken a lot
 minoritylang	0	People who do not speak our language should be deported. There is no reason for another language
 minoritylang	1	We should add it as an additional language in that locality, as it can make life significantly easier for these people
 minoritylang	2	It is important for our nation to have a single national official language. These people should be expected to learn and understand the national language
 minoritylang	3	This will cause undue burden to our industries in labeling everything for all languages for all localities. We should have one national language
-military		When Military Action should be used
-military	0	We should use our military as a deterrent to ensure we are not attacked, as every time we enter a war, we are putting our citizens lives on the line
-military	1	The state of other nations should not concern us, so any military we maintain should be for self-defense only
-military	2	We should use our military to ensure the wellbeing and freedom of people around the world, such as contributing to international peacekeeping missions and efforts to replace governments that fail to respect human rights
-military	3	We should use our military to assault and annex territory that should belong to us
-military	4	Our military should defend our interests abroad to ensure we remain an influential presence, such as by overthrowing hostile governments
-military	5	We should not have a military
-military	6	We should primarily use our military to ensure our nation maintains its status and independence, such as by defending allies and ensuring other nations do not try to take our land or water
+military		Когда следует использовать военные действия
+military	0	Мы должны использовать наши вооружённые силы в качестве сдерживающего фактора, чтобы гарантировать, что на нас не нападут, поскольку каждый раз, когда мы вступаем в войну, мы подвергаем риску жизни наших граждан.
+military	1	Состояние других стран не должно нас волновать, поэтому любые вооружённые силы должны использоваться только для самообороны.
+military	2	Мы должны использовать наши вооружённые силы для обеспечения благополучия и свободы людей во всем мире, например, для участия в международных миротворческих миссиях и для замены правительств, не соблюдающих права человека.
+military	3	Мы должны использовать наши вооружённые силы для нападения и аннексии территорий, которые должны принадлежать нам.
+military	4	Наши вооружённые силы должны защищать наши интересы за рубежом, чтобы обеспечить наше влияние, например, путём свержения враждебных правительств.
+military	5	У нас не должно быть армии.
+military	6	Мы должны использовать наши вооружённые силы в первую очередь для обеспечения сохранения статуса и независимости нашей страны, например, для защиты союзников и обеспечения того, чтобы другие страны не пытались захватить нашу землю или воду.
 borderchecks		Agreement between Allies to Prevent Border Checks Between Them (Schengen)
 borderchecks	0	I oppose this, as we should not be having people from other nations in our nation at all
 borderchecks	1	It is important that we can examine who is coming into our nation, we cannot control who enters those nations, which is unacceptable
@@ -402,21 +402,21 @@ borderchecks	3	I support this agreement. As long as these people respect our law
 borderchecks	4	I support this, not just with our allies, but with all nations. People should be free to enter any nation
 borderchecks	5	With this agreement, our people can easily vacation to our allies if they choose, with negligible additional risk, so I support this
 borderchecks	6	We should not allow people to leave the nation, and as such, I am opposed to this
-foreignaid		Foreign Aid
-foreignaid	0	We should expand our influence abroad and foreign aid is a good way to gain favors and popular opinion abroad
-foreignaid	1	Foreign aid can greatly improve the quality of lives of developing nations for relatively little cost to us, so we should provide it
-foreignaid	2	We should put foreign aid into nations with poor standards. Improving the life there reduces worldwide refugees and protects our nation from them
-foreignaid	3	We should not be spending our taxpayers' hard-earned money on other nations
-foreignaid	4	The affairs of other nations do not matter to us, there is no reason to send foreign aid
-foreignaid	5	Any government should be minimal, if it exists at all, and thus not have the funds to be paying money abroad
-unres		United Nations Resolutions (Main 6 Bodies)
-unres	0	We should not be a part of the UN
-unres	1	I support having the United Nations or a similar new organization to replace governments such as our own to unify the world into a single country
-unres	2	Our country should look out for our own people, not the people of the world, so we should not follow UN guidelines unless they happen to coincide with our own interests
-unres	3	We should follow UN resolutions and put international pressure on nations that don't to make the world a better place for everyone
-unres	4	Our nation's laws should not be decided by other nations, we can consider UN resolutions but should only pass them as laws in our nation if they match our interests
-unres	5	We should attempt to use the united nations to our advantage, and support proposals that benefit us and encourage others to follow them, however we should only follow the proposals that benefit us
-unres	6	We should not change our way of life because other nations say to.
+foreignaid		Иностранная помощь
+foreignaid	0	Мы должны расширять свое влияние за рубежом, и иностранная помощь — это хороший способ завоевать расположение и популярность за рубежом.
+foreignaid	1	Иностранная помощь может значительно улучшить качество жизни развивающихся стран за относительно небольшие деньги для нас, поэтому мы должны её предоставлять.
+foreignaid	2	Мы должны направлять иностранную помощь в страны с низкими стандартами. Улучшение жизни там уменьшает количество беженцев по всему миру и защищает нашу нацию от них.
+foreignaid	3	Мы не должны тратить деньги наших налогоплательщиков, заработанные тяжёлым трудом, на другие страны.
+foreignaid	4	Дела других стран не имеют для нас значения, поэтому нет причин отправлять иностранную помощь.
+foreignaid	5	Любое правительство должно быть минимальным, если оно вообще существует, и поэтому не должно иметь средств, чтобы платить деньги за границу.
+unres		Резолюции Организации Объединенных Наций (Главные 6 органов)
+unres	0	Мы не должны быть частью ООН.
+unres	1	Я поддерживаю идею создания ООН или аналогичной новой организации, которая заменит правительства, подобные нашему, чтобы объединить мир в единую страну.
+unres	2	Наша страна должна заботиться о своём народе, а не о народе всего мира, поэтому мы не должны следовать указаниям ООН, если они не совпадают с нашими собственными интересами.
+unres	3	Мы должны следовать резолюциям ООН и оказывать международное давление на страны, которые этого не делают, чтобы сделать мир лучше для всех.
+unres	4	Законы нашей страны не должны определяться другими странами, мы можем рассматривать резолюции ООН, но должны принимать их как законы в нашей стране, только если они соответствуют нашим интересам.
+unres	5	Мы должны пытаться использовать ООН в своих интересах, поддерживать предложения, которые выгодны нам, и поощрять других следовать им, однако мы должны следовать только тем предложениям, которые выгодны нам.
+unres	6	Мы не должны менять свой образ жизни, потому что так говорят другие страны.
 espionage		Most Important Espionage Agency Tasks
 espionage	0	We should use our foreign espionage agency to attempt to infiltrate our enemies abroad and overthrow leaders who oppose us when possible
 espionage	1	The most important task is uncovering and tracking down the worst sorts of criminals who reside in our nation
