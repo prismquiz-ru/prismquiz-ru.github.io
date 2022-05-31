@@ -126,22 +126,22 @@ holidays	0	Религиозные праздники самой популярн
 holidays	1	Государство не должно делать религиозные праздники национальными праздниками.
 holidays	2	Религиозные праздники должны иметь меньше влияния, чем они имеют сегодня, и уж точно не должны быть национальными праздниками. Вместо них лучше устраивать больше праздников вокруг значимых для нашей страны исторических дат, или делать акцент на отдыхе, а не на соблюдении религиозных обрядов.
 holidays	3	Правительство должно гарантировать наиболее святые праздники всех основных религий в стране, чтобы представители всех религий могли выполнять свои религиозные обязанности.
-elections		Elections
-elections	0	The vote of an educated person should be worth more than that of a fool.
-elections	1	Every person must have a vote, but it should be weighted geographically for at least one chamber of the legislature to ensure one region cannot dominate the legislature
-elections	2	A vote is a vote, and all votes should count exactly the same
-elections	3	There shouldn't be a government to even vote to put people in
-elections	4	Voting is really an unnecessary process, the whims of the masses are irrelevant
-elections	5	Those who put more money into the government deserve to get more out of their vote
-elections	6	Those who serve the country through the military should have more of a say in the government than those who do not
-representation		Representatives
-representation	0	I do not want representation, I want the government to be abolished
-representation	1	I want a representative who I can bribe to get my legislative agenda prioritized
-representation	2	I want a leader who will represent the popular opinion of the area they serve even when they personally disagree
-representation	3	I want a representative who will bring stability and strength through a lifelong rule
-representation	4	I want leaders who are experts in various fields and can use that knowledge to create well-informed policies
-representation	5	I do not want representation, I want to be able to directly vote on most issues as referenda
-representation	6	I want a leader who has served in the military and worked their way up the ranks
+elections		Выборы
+elections	0	Голос образованного человека должен весить больше, чем голос дурака.
+elections	1	Каждый человек должен иметь голос, но он должен быть взвешен географически, по крайней мере, для одной палаты законодательного органа, чтобы гарантировать, что один регион не может доминировать в законодательном органе.
+elections	2	Голос есть голос, и все голоса должны учитываться одинаково.
+elections	3	Правительства не должно быть и, как следствие, выборов тоже, чтобы назначать людей на должности.
+elections	4	Голосование — действительно ненужный процесс, прихоти масс не имеют значения.
+elections	5	Те, кто вкладывает больше денег в правительство, заслуживают получить больше от своего голоса.
+elections	6	Те, кто служит стране в армии, должны иметь больше прав голоса в правительстве, чем те, кто этого не делает.
+representation		Представители
+representation	0	Я не хочу представительства, я хочу, чтобы правительство было упразднено.
+representation	1	Мне нужен представитель, которого я могу подкупить, чтобы добиться приоритета моей законодательной программы.
+representation	2	Я хочу иметь лидера, который будет представлять интересы населения той области, где он работает, даже если он лично с ним не согласен.
+representation	3	Мне нужен представитель, который обеспечит стабильность и силу благодаря пожизненному правлению.
+representation	4	Мне нужны лидеры, которые являются экспертами в различных областях и могут использовать эти знания для создания хорошо продуманной политики.
+representation	5	Я не хочу представительства, я хочу иметь возможность голосовать напрямую по большинству вопросов на референдумах
+representation	6	Я хочу иметь лидера, который служил в армии и прошел путь по карьерной лестнице.
 concentration		Concentration of Power
 concentration	0	Power must be decentralized to everyone with important decisions ultimately decided through frequent national referenda. People generally know what they want and are able to understand issues with a little explanation.
 concentration	1	Policy should not be set by politicians, but by experts in each field, who are able to actually understand the issues, something that politicians will never truly be able to do.
