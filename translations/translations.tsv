@@ -269,11 +269,11 @@ bankcrash	3	Мы должны разбить крупные банки, пока
 bankcrash	4	Мы должны выручить банк, чтобы спасти экономику, но в конечном итоге заставить банк вернуть деньги с процентами.
 bankcrash	5	Мы должны купить этот банк и управлять им как национальным банком. Другие банки могут конкурировать с нами, но мы можем гарантировать, что не обанкротимся.
 bankcrash	6	Банки не должны существовать ни в какой форме.
-highways		Highways
-highways	0	Local governments should build and maintain highways. This ensures they are responsive to the wishes of local communities and their wishes
-highways	1	Roads should be privatized. Private highways ensure that only those who use them pay for them and will create better quality
-highways	2	We should have many highways be public, but allow private highways to be built to compete. If their quality or placement allows them to be profitable because people choose them, that's a positive for everyone
-highways	3	Highways should be operated by the national government. This ensures we can guarantee road quality nationwide that is free for everyone, and should employ a lot of people to work on ensuring top quality
+highways		Автомобильные дороги
+highways	0	Автодороги должны находиться в собственности местных органов власти и финансироваться из их бюджетов. Это гарантирует, что они учитывают пожелания местных сообществ.
+highways	1	Автодороги должны быть приватизированы. Частные автодороги гарантируют, что за них платят только те, кто ими пользуется, и создадут лучшее качество.
+highways	2	Многие автодороги должны быть государственными, но разрешить строительство частных автомагистралей, чтобы они могли конкурировать. Если их качество или расположение позволяет им быть прибыльными, потому что люди выбирают их, это положительный момент для всех.
+highways	3	Автодороги должны управляться государством. Это позволит нам гарантировать качество дорог по всей стране, бесплатное для всех, и нанять много людей для работы по обеспечению высокого качества.
 debt		National Debt
 debt	0	We should take on debt both to improve the economy and to invest in our population in ways that will pay back more in the long run. We should pay for this debt through higher taxes on bigger companies
 debt	1	The government controls the currency. We can print more money when we need more money, and legislate prices to stay level to keep inflation from becoming a problem
