@@ -36,13 +36,13 @@ policysetting	gov		repub	auth	rep	techno	dir	plut	strato	anar	repub/rep*
 peoplepolicy	gov		dir	plut	auth/techno/strato	repub	anar	rep							
 healthcare	econ		ordo	opt	soc/com	marksoc	cap	socdem	clas						
 minwage	econ		marksoc	opt	soc	socdem	cap	ordo	clas	com					
-isp	econ		ordo	clas	socdem	opt	soc	marksoc/com	cap						
+isp	econ		ordo	clas	socdem	opt	soc/com	marksoc	cap						
 ubi	econ		clas/cap	ordo	opt	soc	socdem	marksoc	socdem	socdem	com				
-utilities	econ		cap	marksoc/com	soc	socdem	clas	opt	ordo						
-privateschools	econ		clas/ordo	marksoc/com	soc	opt/socdem	cap								
+utilities	econ		cap	marksoc	soc/com	socdem	clas	opt	ordo						
+privateschools	econ		clas/ordo	marksoc	soc/com	opt/socdem	cap								
 outsourcing	econ		soc/com	opt	cap	socdem	clas	marksoc	ordo/socdem						
 bankcrash	econ		soc	soc/marksoc	cap	socdem/ordo	clas	opt	soc/com						
-highways	econ		clas/marksoc/ordo/com	cap	opt	socdem/soc									
+highways	econ		clas/marksoc/ordo	cap	opt	socdem/soc/com									
 debt	econ		ordo/clas/opt	soc/marksoc	clas	socdem	cap	com							
 consumergoods	econ	1	soc	marksoc	cap/clas	opt	ordo/socdem/clas	com							
 whistle	legal		proced/lao	decn	hum	prot									
