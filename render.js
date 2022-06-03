@@ -6,7 +6,7 @@ function renderFormat() {
     Backgrounds = []
     for(var i = 0; i < maxQs; i++){
         Y = (Boxheight+Boxpadding)*i+Questionsize+2*Questionpadding
-        bounds = [100, Y, 1200, Boxheight]
+        bounds = [100, Y, 900, Boxheight]
         Backgrounds.push(createBox(bounds).attr('fill','#80b1d3'))
     }
     bl = [100, Y, Boxheight, Boxheight]
@@ -16,7 +16,7 @@ function renderFormat() {
     textg = svg.append('g');
     for(var i = 0; i < maxQs; i++){
         Y = (Boxheight+Boxpadding)*i+Questionsize+2*Questionpadding
-        bounds = [100, Y, 1200, Boxheight]
+        bounds = [100, Y, 900, Boxheight]
         createBox(bounds).attr('fill','transparent').datum(i).on('click',d=>{if(ANSWERS[d]=="prev"){previous(d)}else{Answers[questionindex] = d; renderQuestion(d)}})
     }
     leftcbox = createBox(bl).attr('fill','transparent').on("click",function(d){nextq(1)})
@@ -51,7 +51,7 @@ function renderQuestion(selected){
     for(var i = 0; i < ANSWERS.length; i++)
     {
         Y = (Boxheight+Boxpadding)*i+Questionsize+2*Questionpadding
-        bounds = [100, Y, 800, Boxheight]
+        bounds = [100, Y, 900, Boxheight]
         T = createText(bounds, ANSWERS[i],bounds[3])
         SIZE = Math.min(SIZE, T[1])
         Q.push(T[0])
