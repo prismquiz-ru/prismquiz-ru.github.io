@@ -40,7 +40,7 @@ function renderQuestion(selected){
     svg.attr('height',(Boxheight+Boxpadding)*ANSWERS.length+Questionsize+2*Questionpadding)
     svg.selectAll("text").remove();
     svg.selectAll("image").remove();
-    createText([100,Questionpadding, 800,Questionsize],QUESTION,0,"lightgrey")
+    createText([100,Questionpadding, 900,Questionsize],QUESTION,0,"lightgrey")
     createLineText([950,Questionpadding, 100,Questionsize],(questionindex+1)+"/"+Qs.length).attr('fill',"lightgrey")
     SIZE = 1000
     Q = []
