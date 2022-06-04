@@ -41,13 +41,13 @@ function renderQuestion(selected){
     svg.selectAll("text").remove();
     svg.selectAll("image").remove();
     createText([100,Questionpadding, 900,Questionsize],QUESTION,0,"lightgrey")
-    createLineText([950,Questionpadding, 100,Questionsize],(questionindex+1)+"/"+Qs.length).attr('fill',"lightgrey")
+    createLineText([1350,Questionpadding, 100,Questionsize],(questionindex+1)+"/"+Qs.length).attr('fill',"lightgrey")
     SIZE = 1000
     Q = []
-    leftbox.attr('y',-2000)
-    leftcbox.attr('y',-2000)
-    rightbox.attr('y',-500)
-    rightcbox.attr('y',-500)
+    leftbox.attr('y',-1000)
+    leftcbox.attr('y',-1000)
+    rightbox.attr('y',-1000)
+    rightcbox.attr('y',-1000)
     for(var i = 0; i < ANSWERS.length; i++)
     {
         Y = (Boxheight+Boxpadding)*i+Questionsize+2*Questionpadding
