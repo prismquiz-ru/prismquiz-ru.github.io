@@ -11,7 +11,7 @@ function renderFormat() {
     }
     bl = [100, Y, Boxheight, Boxheight]
     leftbox = createBox(bl).attr('fill','#ffff7f')
-    br = [900-Boxheight, Y, Boxheight, Boxheight]
+    br = [1000-Boxheight, Y, Boxheight, Boxheight]
     rightbox = createBox(br).attr('fill','#30b364')
     textg = svg.append('g');
     for(var i = 0; i < maxQs; i++){
@@ -65,7 +65,7 @@ function renderQuestion(selected){
                 leftcbox.attr('y',Y)
                 
             }
-            br = [900-Boxheight, Y, Boxheight, Boxheight]
+            br = [1000-Boxheight, Y, Boxheight, Boxheight]
             rightbox.attr('y',Y)
             createLineText(br, "✓")
             rightcbox.attr('y',Y)
@@ -81,7 +81,7 @@ function renderQuestion(selected){
             createLineText([CW-H/2,CH-W2/2,H,W2],LANGUAGES["BL"][curlang]).attr("transform","rotate(-90,"+CW+","+CH+")").attr('fill','lightgrey')
             svg.append("image").attr("href","data/left.png").attr('x',100-W).attr('y',80).attr('width',W).attr('height',H)
             createLineText([1000-(CW+H/2),CH-W2/2,H,W2],LANGUAGES["BR"][curlang]).attr("transform","rotate(90,"+(1000-CW)+","+CH+")").attr('fill','lightgrey')
-            svg.append("image").attr("href","data/right.png").attr('x',900).attr('y',80).attr('width',W).attr('height',H)
+            svg.append("image").attr("href","data/right.png").attr('x',1000).attr('y',80).attr('width',W).attr('height',H)
         } else {
             //bounds: [10,80,85-W,80,H]
             createLineText([CW-H/2,CH-W2/2,H,W2],LANGUAGES["A"][curlang]).attr("transform","rotate(-90,"+CW+","+CH+")").attr('fill','lightgrey')
