@@ -85,7 +85,7 @@
         img =  center.append("img").node()
         var ctx = canvas.getContext("2d");
         var data=mainsvg.innerHTML;
-        //var loader = new Image;
+        var loader = new Image;
         loader.width = canvas.width = svg.attr('width')
         loader.height = canvas.height = svg.attr('height')
         loader.onload = ()=> {
