@@ -44,10 +44,10 @@ function renderQuestion(selected){
     createLineText([950,Questionpadding, 100,Questionsize],(questionindex+1)+"/"+Qs.length).attr('fill',"lightgrey")
     SIZE = 1000
     Q = []
-    leftbox.attr('y',-1000)
-    leftcbox.attr('y',-1000)
-    rightbox.attr('y',-1000)
-    rightcbox.attr('y',-1000)
+    leftbox.attr('y',-1300)
+    leftcbox.attr('y',-1300)
+    rightbox.attr('y',-1300)
+    rightcbox.attr('y',-1300)
     for(var i = 0; i < ANSWERS.length; i++)
     {
         Y = (Boxheight+Boxpadding)*i+Questionsize+2*Questionpadding
