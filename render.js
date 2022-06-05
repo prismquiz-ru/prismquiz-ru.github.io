@@ -11,7 +11,7 @@ function renderFormat() {
     }
     bl = [100, Y, Boxheight, Boxheight]
     leftbox = createBox(bl).attr('fill','#ffff7f')
-    br = [1000-Boxheight, Y, Boxheight, Boxheight]
+    br = [1200-Boxheight, Y, Boxheight, Boxheight]
     rightbox = createBox(br).attr('fill','#30b364')
     textg = svg.append('g');
     for(var i = 0; i < maxQs; i++){
