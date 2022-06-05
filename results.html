@@ -88,12 +88,12 @@
         var loader = new Image;
         loader.width = canvas.width = svg.attr('width')
         loader.height = canvas.height = svg.attr('height')
-        /*loader.onload = ()=> {
+        loader.onload = ()=> {
             ctx.drawImage(loader, 0, 0, loader.width, loader.height);
             img.src = canvas.toDataURL("image/png")
-            svg.remove()
-            d3.select("canvas").remove()
-        }*/
+            //svg.remove()
+            //d3.select("canvas").remove()
+        }
         var svgXML = (new XMLSerializer).serializeToString(mainsvg);
         loader.src = 'data:image/svg+xml,' + encodeURIComponent(svgXML);
     });
