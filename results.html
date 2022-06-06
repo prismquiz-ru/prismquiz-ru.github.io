@@ -49,7 +49,7 @@
         Boxpadding = 10
         Resultpadding = 80
         ResultLabelheight = 60;
-        ResultPercentWidth = 10;
+        ResultPercentWidth = 0;
         ResultPercentHeight = 30;
         padding = 50;
         header = 120+padding
@@ -82,7 +82,7 @@
         var canvas=center.append('canvas').node();/*делает текст*/
         var mainsvg = svg.node();
         //.append("a").on("click",()=>{}).attr("href",window.location.href)
-        img =  center.append("img").node()
+        //img =  center.append("img").node()
         var ctx = canvas.getContext("2d");
         var data=mainsvg.innerHTML;
         var loader = new Image;
