@@ -79,15 +79,15 @@
         });
         
         //magic, somehow works
-        //var canvas=center.append('canvas').node();
+        var canvas=center.append('canvas').node();/*делает текст*/
         var mainsvg = svg.node();
         //.append("a").on("click",()=>{}).attr("href",window.location.href)
         img =  center.append("img").node()
         var ctx = canvas.getContext("2d");
         var data=mainsvg.innerHTML;
         var loader = new Image;
-        loader.width = canvas.width = svg.attr('width')
-        loader.height = canvas.height = svg.attr('height')
+        //loader.width = canvas.width = svg.attr('width')
+        //loader.height = canvas.height = svg.attr('height')
         loader.onload = ()=> {
             ctx.drawImage(loader, 0, 0, loader.width, loader.height);
             img.src = canvas.toDataURL("image/png")
