@@ -65,7 +65,7 @@ function renderQuestion(selected){
                 leftcbox.attr('y',Y)
                 
             }
-            br = [1100-Boxheight, Y, Boxheight, Boxheight]
+            br = [1000-Boxheight, Y, Boxheight, Boxheight]
             rightbox.attr('y',Y)
             createLineText(br, "✓")
             rightcbox.attr('y',Y)
