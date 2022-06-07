@@ -35,7 +35,7 @@
         for(var i = 0; i < LANGUAGEDATA.length; i++)
             LANGUAGES[LANGUAGEDATA[i].key+LANGUAGEDATA[i].nonce] = LANGUAGEDATA[i];
         center = d3.select('body').append('center')
-        center.append("a").attr("href",("/"+curlang+".html").replace("en.html","")).append("h2").text("Назад")
+        center.append("a").attr("href",("/"+curlang+".html").replace("en.html","")).append("h2").text("На главную")
         dimensions = ["gov,repub,auth,rep,techno,dir,plut,strato,anar,rep*,dir*,repub*,auth*","econ,ordo,opt,soc,marksoc,cap,socdem,clas,com","soct,perf,free,prog,trad,just","rel,theo,hybr,athe,sec,athe*","legal,proced,decn,lao,hum,hum*,prot,prot*","for,sov,asim,nat,open,iso,pop,glob,glob*,open*,nat*"].map(d=>d.split(","))
         for(var i = 0; i < dimensions.length; i++) {
             center.append("h1").text(LANGUAGES[dimensions[i][0]][curlang]).style('font-size',50)
