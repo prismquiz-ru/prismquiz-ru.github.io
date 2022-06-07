@@ -109,7 +109,7 @@ function renderResult(box, result, label) {
     textg = svg
     renderChart([box[0],box[1]+ResultLabelheight,box[3]-ResultLabelheight,box[3]-ResultLabelheight],result)
     createLineText([box[0], box[1]-10, box[3]-ResultLabelheight, ResultLabelheight], LANGUAGES[label][curlang]).attr("fill", 'white')
-    var width = (box[2]-box[3]+ResultLabelheight)/2.9
+    var width = (box[2]-box[3]+ResultLabelheight)/3
     for(var k = 0; k < result.length; k++)
         renderInfoBox([box[0]+box[3]+Boxpadding+k*width, box[1]+ResultLabelheight,width-Boxpadding,box[3]-ResultLabelheight], result[k])
 }
