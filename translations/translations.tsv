@@ -431,36 +431,37 @@ BR		Нажмите ✓, если это определённо ваше пред
 all		Все
 home		Главная страница
 values		Возможные значения
-whistle		Информаторы
-whistle	0	Whistleblowers should make reports through the proper channels for ethical concerns. If someone is found to have leaked classified information, they should be punished.
-whistle	1	There should be no classified information, and as such, there is no issue with whistleblowers.
-whistle	2	Whistleblowers who are revealing information that the people have a right to know, such as illegal activities the government did, should be protected and regarded as heroes.
-whistle	3	Anyone leaking state secrets must be punished, the people the state trusts to handle its secrets should not have the authority to determine whether the state is right or wrong.
-police		Deaths Caused by Police
-police	0	When a police death occurs, there should be an investigation. The officer should be punished if they did not follow policy, but if they followed a bad policy, the policy should be changed, the officer should not be punished.
-police	1	There should not be a police force, people should determine justice using their own means.
-police	2	Police work dangerous, high-stress jobs and should generally have protection when they take an action when they perceive a threat that turns out to be wrong
-police	3	Most police should not be armed with lethal weapons, should be representative of the communities that they serve, and should be trained in deescalation, and should be charged when they kill a member of the communities that they were supposed to protect.
-police	4	Police should be legally allowed to kill when someone puts up any perceived resistance to the police.
-survey		Surveillance
-survey	0	People should have a reasonable expectation of privacy in their data, but the government should be allowed to gain access to the private communications of certain people, if they have reasonable cause to apply for a warrant.
-survey	1	Companies should be permitted to monitor your communications and ensure that you are following all their terms, but the government, if one even exists, should not be allowed to.
-survey	2	The government should be able to access the communications of anyone. This should be used to discourage people from  engaging in illegal activities online.
-survey	3	People should have a right to privacy in their communications. The government should not be able to get electronic data.
-survey	4	The government shouldn't be allowed to look at most communications, but software should automatically flag potentially illegal activities for review and potential reporting to authorities.
-guns		Gun Ownership
-guns	0	Those who can demonstrate a need to own a gun should be able to get one, however, those without a need should not be able to.
-guns	1	Gun ownership should be encouraged, if not required, to deter criminals who will have to put their life at risk when committing a crime.
-guns	2	Anyone should be able to own a gun and be able to use it when they feel threatened.
-guns	3	Many gun deaths are caused by lack of proper training. There should be restrictions on purchasing a guns including training requirements and background checks to ensure gun-owners are responsible.
-guns	4	Civilians should not be permitted to own a gun, it endangers law enforcement officers and makes crime more difficult to stop.
-deathpenalty		Death Penalty
-deathpenalty	0	If people are found guilty beyond any shadow of a doubt for a particularly heinous crime, they should be given the death penalty.
-deathpenalty	1	There should be no prisons, as such, if someone has committed an act where it it unsafe to allow them to go freely, they should be executed.
-deathpenalty	2	The death penalty should be an option, as it will reduce crime by serving as a deterrent.
-deathpenalty	3	We should always try to rehabilitate, and criminals should still have a right to live and change, so the death penalty should be banned.
-deathpenalty	4	Those who defy the state should be executed, to ensure that those who remain obey.
-deathpenalty	5	The death penalty is an easy escape for especially heinous criminals and should be banned
+whistle		Разоблачители секретной информации (информаторы)
+whistle	0	Разоблачители должны сообщать по надлежащим каналам об этических проблемах. Если будет установлено, что кто-то допустил утечку секретной информации, он должен быть наказан.
+whistle	1	Не должно быть никакой секретной информации, и поэтому нет никаких проблем с разоблачителями.
+whistle	2	Разоблачители, которые раскрывают информацию, которую народ имеет право знать, например, о незаконной деятельности правительства, должны быть защищены и считаться героями.
+whistle	3	Любой, кто разглашает государственные секреты, должен быть наказан. Люди, которым государство доверяет свои секреты, не должны иметь право определять, право государство или нет.
+police		Смерть по вине полиции
+police	0	Когда происходит смерть полицейского, должно быть проведено расследование. Офицер должен быть наказан, если он не следовал политике, но если он следовал плохой политике, политика должна быть изменена, офицер не должен быть наказан.
+police	1	Полиции не должно быть, люди должны вершить правосудие своими силами.
+police	2	Полицейские работают на опасной, очень стрессовой работе и, как правило, должны иметь защиту, когда они предпринимают действия при восприятии угрозы, которые оказываются ошибочными.
+police	3	Большинство полицейских не должны быть вооружены смертоносным оружием, должны быть представителями тех сообществ, которым они служат, и должны быть обучены методам деэскалации, и им должны быть предъявлены обвинения, если они убивают члена сообщества, которое они должны защищать.
+police	4	Полиция должна иметь законное право убивать, если кто-то оказывает видимое сопротивление полиции.
+survey		Наблюдение
+survey	0	Люди должны иметь разумные основаня ожидать конфиденциальности своих данных, но правительству должно быть разрешено получать доступ к частным сообщениям определенных людей, если у него есть достаточные основания для получения ордера.
+survey	1	Компаниям должно быть разрешено отслеживать ваши сообщения и следить за тем, чтобы вы соблюдали все их условия, но государству, если оно вообще существует, не должно быть разрешено это делать.
+survey	2	Правительство должно иметь возможность доступа к коммуникациям любого человека. Это должно использоваться для того, чтобы отбить у людей желание заниматься незаконной деятельностью в интернете.
+survey	3	Люди должны иметь право на конфиденциальность своих сообщений. Правительство не должно иметь возможности получать электронные данные.
+survey	4	Правительству не следует разрешать просматривать большинство сообщений, но программное обеспечение должно автоматически отмечать потенциально незаконную деятельность для проверки и возможного сообщения властям.
+guns		Владение оружием
+guns	0	Те, кто может доказать необходимость владения оружием, должны иметь возможность приобрести его, однако те, кто не имеет такой необходимости, не должны иметь этой возможности.
+guns	1	Владение оружием должно поощряться, если не требоваться, для сдерживания преступников, которым придётся подвергать свою жизнь риску при совершении преступления.
+guns	2	Любой человек должен иметь возможность владеть оружием и быть в состоянии использовать его, когда он чувствует угрозу.
+guns	3	Многие случаи смерти от огнестрельного оружия происходят из-за отсутствия надлежащей подготовки. Необходимо ввести ограничения на приобретение оружия, включая требования к обучению и проверку биографических данных, чтобы гарантировать ответственность владельцев оружия.
+guns	4	Гражданским лицам не должно быть разрешено владеть оружием, это подвергает опасности сотрудников правоохранительных органов и затрудняет пресечение преступлений.
+guns	5	Легализация оружия не решит проблему преступности — это пойдёт на руку в первую очередь бандитским группировкам и мародёрам, которые станут ещё опаснее.  
+deathpenalty		Смертная казнь
+deathpenalty	0	Если люди признаны виновными без тени сомнения в совершении особо чудовищного преступления, им должна быть вынесена смертная казнь.
+deathpenalty	1	Тюрем не должно быть, поэтому, если кто-то совершил преступление, при котором небезопасно выпускать его на свободу, он должен быть казнён.
+deathpenalty	2	Смертная казнь должна быть одним из вариантов, так как она снижает уровень преступности, служа сдерживающим фактором.
+deathpenalty	3	Мы всегда должны пытаться реабилитировать преступников, которые должны иметь право жить и меняться, поэтому смертная казнь должна быть запрещена.
+deathpenalty	4	Те, кто бросает вызов государству, должны быть казнены, чтобы убедиться, что те, кто остаётся, подчиняются.
+deathpenalty	5	Смертная казнь — это легкий выход для особо отвратительных преступников, поэтому её следует запретить.
 proced	desc	Согласно этому тесту, сторонники «Процедурной безопасности» считают, что люди должны следовать установленным процедурам и правилам. Тех, кто следует процедурам, даже если они ошибочны, не следует наказывать, а вместо этого следует изменять процедуры.
 decn	desc	Те, кто верит в «Децентрализованную безопасность», считают, что правительство не должно гарантировать безопасность для населения, и вместо этого полагают, что люди должны взять свою безопасность в собственные руки. Обычно они твердо верят в право на оружие и выступают против тюрем и полиции.
 lao	desc	Сторонники «Закона и порядка» считают, что лучший способ предотвращения преступлений — это строгие наказания и риски для сдерживания преступников. Они обычно считают, что тех, кто нарушает закон, следует наказывать по всей строгости закона, а также поддерживают карательное правосудие, а не реабилитацию.
