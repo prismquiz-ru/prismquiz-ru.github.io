@@ -48,5 +48,5 @@ consumergoods	econ	1	soc	marksoc	cap/clas	opt	ordo/socdem/clas	com
 whistle	legal		proced/lao	decn	hum	prot									
 police	legal		proced	decn	lao	hum	prot								
 survey	legal		proced	decn	prot	hum	lao								
-guns	legal		proced	lao	decn/hum	hum*	prot								
+guns	legal		proced	lao	decn	hum	prot	hum*							
 deathpenalty	legal	1	proced	decn	lao/prot	hum	prot*	lao							
