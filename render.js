@@ -41,7 +41,7 @@ function renderQuestion(selected){
     svg.selectAll("text").remove();
     svg.selectAll("image").remove();
     createText([100,Questionpadding, 900,Questionsize],QUESTION,0,"lightgrey")
-    createLineText([1055,Questionpadding, 50,Questionsize],(questionindex+1)+"/"+Qs.length).attr('fill',"lightgrey")
+    createLineText([1030,Questionpadding, 40,Questionsize],(questionindex+1)+"/"+Qs.length).attr('fill',"lightgrey")
     SIZE = 1000
     Q = []
     leftbox.attr('y',-1000)
