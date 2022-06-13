@@ -11,7 +11,7 @@ ai	soct		trad	free	perf	just	prog
 prostitution	soct		free	trad	perf	prog	just								
 immigration	for		pop	sov	asim	nat	open	iso	pop	glob					
 parliament	for		asim	glob	pop	iso	sov	nat	open/pop						
-intcurrency	for		asim	nat	glob	sov/iso	pop/open	nat	open						
+intcurrency	for		asim	nat	glob	sov/iso	pop/open	nat	open*						
 refugees	for		nat	glob	open	pop	iso	asim/sov							
 minoritylang	for		iso	glob/pop	sov/asim	nat/sov								open	
 military	for		pop	iso	glob	nat*	nat	open	sov/asim						
@@ -41,7 +41,7 @@ ubi	econ		clas/cap	ordo	opt	soc	socdem	marksoc	socdem	socdem	com
 utilities	econ		cap	marksoc	soc/com	socdem	clas	opt	ordo						
 privateschools	econ		clas/ordo	marksoc	soc/com	opt/socdem	cap								
 outsourcing	econ		soc/com	opt	cap	socdem	clas	marksoc	ordo/socdem						
-bankcrash	econ		soc	soc/marksoc	cap	socdem/ordo	clas	opt	soc/com						
+bankcrash	econ		soc	marksoc	cap	socdem/ordo	clas	opt	soc/com						
 highways	econ		clas/marksoc/ordo	cap	opt	socdem/soc/com									
 debt	econ		ordo/clas/opt	soc/marksoc	clas	socdem	cap	com							
 consumergoods	econ	1	soc	marksoc	cap/clas	opt	ordo/socdem/clas	com							
