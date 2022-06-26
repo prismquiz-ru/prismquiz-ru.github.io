@@ -13,7 +13,7 @@ filler = 3
 #pre-load keys that are static; not in data files
 keysused = "nota,idc,prev,cent,o,a,notadesc,idcdesc,centdesc,quizname,A,BL,BR,all,home,values".split(",")
 questions = readF("data/questions.tsv")
-vals = {"rel": "theo,hybr,athe,sec,athe*", "soct":"perf,free,prog,trad,just","legal":"proced,decn,lao,hum,hum*,prot,prot*","econ":"ordo,opt,soc,marksoc,cap,socdem,clas,com", "gov":"repub,auth,rep,techno,dir,plut,strato,anar,rep*,dir*,repub*,auth*","for":"sov,asim,nat,open,iso,pop,glob,glob*,open*,nat*"}
+vals = {"econ":"ordo,opt,soc,marksoc,cap,socdem,clas,com", "gov":"repub,auth,rep,techno,dir,plut,strato,anar,rep*,dir*,repub*,auth*","soct":"perf,free,prog,trad,just","rel": "theo,hybr,athe,sec,athe*", "legal":"proced,decn,lao,hum,hum*,prot,prot*","for":"sov,asim,nat,open,iso,pop,glob,glob*,open*,nat*"}
 for i in vals:
     vals[i] = vals[i].split(",")
     keysused.append(i)
