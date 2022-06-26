@@ -24,12 +24,12 @@ creationism	rel		theo	sec/athe	hybr
 church	rel		theo	hybr	sec	athe	athe*								
 memorial	rel		theo	athe	sec	hybr									
 holidays	rel		theo	sec	athe	hybr									
-elections	gov		techno	repub	dir/rep	anar	auth/techno	plut	strato						
+elections	gov		techno	repub	dir/rep	anar	auth	plut	strato						
 representation	gov		anar	plut	rep/repub	auth	techno	dir	strato						
 concentration	gov		dir	techno	repub	plut	anar	strato	auth	rep					
 districts	gov		rep	strato	repub	dir	auth	anar	techno	plut					
 trait	gov		anar/dir	auth	plut	techno	techno/strato	rep/repub							
-electionreform	gov		plut	dir*	repub/strato	rep/dir	auth/techno/strato/anar							strato	
+electionreform	gov		plut	dir*	repub/strato	rep/dir	auth/strato/anar	techno							
 secession	gov		auth/rep/techno/strato	repub	anar/plut	dir/repub*	auth/rep/strato/techno								
 leaderselect	gov		auth/techno	repub	auth*	strato	rep	plut	anar/dir/techno						
 policysetting	gov		repub	auth	rep	techno	dir	plut	strato	anar	repub/rep*				
@@ -39,9 +39,9 @@ minwage	econ		marksoc	opt	soc	socdem	cap	ordo	clas	com
 isp	econ		ordo	clas	socdem	opt	soc/com	marksoc	cap						
 ubi	econ		clas/cap	ordo	opt	soc	socdem	marksoc	socdem	socdem	com				
 utilities	econ		cap	marksoc	soc/com	socdem	clas	opt	ordo						
-privateschools	econ		clas/ordo	marksoc	soc/com	opt/socdem	cap								
+education	econ		clas/ordo	marksoc	soc/com	opt/socdem	cap								
 outsourcing	econ		soc/com	opt	cap	socdem	clas	marksoc	ordo/socdem						
-bankcrash	econ		soc	marksoc	cap	socdem/ordo	clas	opt	soc/com						
+bankcrash	econ		soc	marksoc	cap	socdem/ordo	clas	opt	com						
 highways	econ		clas/marksoc/ordo	cap	opt	socdem/soc/com									
 debt	econ		ordo/clas/opt	soc/marksoc	clas	socdem	cap	com							
 consumergoods	econ	1	soc	marksoc	cap/clas	opt	ordo/socdem/clas	com							
